@@ -1,0 +1,39 @@
+.container-fluid {
+    padding: 0px !important;
+}
+
+* {
+  -webkit-border-radius: 0 !important;
+     -moz-border-radius: 0 !important;
+          border-radius: 0 !important;
+}
+
+.fullbody {
+    margin-top: 55px;
+    border-top: 1px solid #DDD;
+}
+.sidebar {
+    margin: 10px 0px 5px 10px;
+    
+}
+.fixed-element {
+
+}
+main .card {
+    margin-bottom: 2rem;
+}
+
+@media only screen and (max-width: 768px) {
+    .read-more {
+        text-align: center;
+    }
+}
+
+.navbar {
+    background-color: #0f6256;
+}
+
+footer.page-footer {
+    background-color: #0f6256;
+    margin-top: 2rem;
+}

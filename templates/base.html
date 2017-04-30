@@ -1,0 +1,44 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        
+        {% block head %}{% endblock %}
+
+    </head>
+    <body>
+    <!--Main layout-->
+    <main class="container-fluid">
+        
+        {% block tophead %}{% endblock %}
+
+        <div class="row fullbody">
+            <aside class="col-md-3">
+        
+                    {% block left_sidebar %}{% endblock %}
+        
+            </aside>
+            <article class="col-md-9">
+        
+                    {% block main_body %}{% endblock %}
+        
+            </article>
+        </div>
+
+    </main>
+
+    {% block footer %}{% endblock %}
+    
+
+    <!-- SCRIPTS -->
+    <!-- JQuery -->
+    <script type="text/javascript" src="/static/js/lib/jquery-3.1.1.min.js"></script>
+    <!-- Bootstrap tooltips -->
+    <script type="text/javascript" src="/static/js/lib/tether.min.js"></script>
+    <!-- Bootstrap core JavaScript -->
+    <script type="text/javascript" src="/static/js/lib/bootstrap.min.js"></script>
+    <!-- MDB core JavaScript -->
+    <script type="text/javascript" src="/static/js/lib/mdb.min.js"></script>
+
+    </body>
+</html>
