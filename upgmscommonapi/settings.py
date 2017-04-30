@@ -20,6 +20,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
+    'country.apps.CountryConfig',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
@@ -66,8 +67,11 @@ WSGI_APPLICATION = 'upgmscommonapi.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': os.path.join(BASE_DIR, 'data/db.sqlite3'),
+        'ENGINE': 'django.db.backends.postgresql_psycopg2',
+        'NAME': 'upgmscommonapi',
+        'USER': 'upgms',
+        'PASSWORD': '1971',
+        'HOST': 'localhost'
     }
 }
 
@@ -112,3 +116,13 @@ STATICFILES_DIRS = [
 ]
 
 STATIC_URL = '/static/'
+
+
+if DEBUG:
+    pass
+    # DATABASES = {
+    #     'default': {
+    #         'ENGINE': 'django.db.backends.sqlite3',
+    #         'NAME': os.path.join(BASE_DIR, 'data/db.sqlite3'),
+    #     }
+    # }
