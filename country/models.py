@@ -45,7 +45,7 @@ class Word(models.Model):
     name = models.CharField(max_length=50, blank=False, null=False)
     description = models.TextField(max_length=200, blank=True, null=True)
     union_word_no = models.CharField(max_length=6, blank=False, null=False)
-    word_code = models.CharField(max_length=6, blank=False, null=False)
+    word_code = models.CharField(max_length=10, blank=False, null=False)
     population = models.PositiveIntegerField(blank=True, null=True)
     upazila = models.ForeignKey('Upazila', null=True, on_delete=models.SET_NULL)
     union = models.ForeignKey('Union', null=True, on_delete=models.SET_NULL)
@@ -57,12 +57,12 @@ class Village(models.Model):
     name = models.CharField(max_length=50, blank=False, null=False)
     alias_name = models.CharField(max_length=50, blank=False, null=False)
     description = models.TextField(max_length=200, blank=True, null=True)
-    village_code = models.CharField(max_length=6, blank=False, null=False)
+    village_code = models.CharField(max_length=12, blank=False, null=False)
     population = models.PositiveIntegerField(blank=True, null=True)
     upazila = models.ForeignKey('Upazila', null=True, on_delete=models.SET_NULL)
     union = models.ForeignKey('Union', null=True, on_delete=models.SET_NULL)
     word = models.ForeignKey('Word', null=True, on_delete=models.SET_NULL)
     
+
     def __str__(self):
         return self.name
-
