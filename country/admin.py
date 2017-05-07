@@ -5,14 +5,25 @@ from .models import *
 admin.site.register(Division)
 admin.site.register(District)
 admin.site.register(Upazila)
-admin.site.register(Union)
-admin.site.register(Word)
+
+class UnionAdmin(admin.ModelAdmin):
+    list_display = ('name', 'union_code',)
+
+admin.site.register(Union, UnionAdmin)
+
+class WordAdmin(admin.ModelAdmin):
+    list_display = ('name', 'word_code',)
+
+    # def word_by_order(self, obj):
+    #     return int(obj.union_word_no)
+    # word_by_order.admin_order_field = '-union_word_no'
+
+admin.site.register(Word, WordAdmin)
+
 
 class VillageAdmin(admin.ModelAdmin):
-    list_display = ('__str__','name','population', 'village_code',)
+    list_display = ('name','name_bangla', 'village_code',)
 
     list_filter = ['word',]
-
-    # search_fields = ['union', 'name',]
 
 admin.site.register(Village, VillageAdmin)

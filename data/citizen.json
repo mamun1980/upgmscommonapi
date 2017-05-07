@@ -1,0 +1,2681 @@
+[
+{
+  "model": "citizen.citizen",
+  "pk": "0690338101030001",
+  "fields": {
+    "name_bangla": "\u09ae\u09cb\u099b\u09be\u0983 \u099c\u09be\u09b9\u09be\u09a8\u09be\u09b0\u09be \u09ac\u09c7\u0997\u09ae",
+    "name": "Mst Jahanara Begum",
+    "nid": "9013327250670",
+    "dob": "1988-05-05",
+    "gender": "F",
+    "village": "069033810103",
+    "word": "0690338101",
+    "union": "06903381",
+    "post_office": "Dowara Bazer",
+    "post_code": "3070",
+    "father_name": "\u09ae\u09c3\u09a4 \u09b0\u0989\u09ab \u0989\u09a6\u09cd\u09a6\u09bf\u09a8",
+    "mother_name": "\u09ae\u09cb\u099b\u09be\u0983 \u099b\u09be\u09ac\u09bf\u09b0\u09c1\u09a8 \u09a8\u09c7\u099b\u09be",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338101030002",
+  "fields": {
+    "name_bangla": "\u0995\u09c1\u09b8\u09ac\u09c1\u09b2 \u09ac\u09c7\u0997\u09ae",
+    "name": "kusbul Begum",
+    "nid": "9013381318144",
+    "dob": "1967-01-05",
+    "gender": "F",
+    "village": "069033810103",
+    "word": "0690338101",
+    "union": "06903381",
+    "post_office": "Doara bagar",
+    "post_code": "3070",
+    "father_name": null,
+    "mother_name": "\u09b8\u09ae\u09c1\u09b0\u09a4\u09be",
+    "spouse_name": "\u09ae\u09be\u09a6\u09be\u09b0 \u0986\u09b2\u09c0"
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338101030003",
+  "fields": {
+    "name_bangla": "\u09b0\u09c1\u09b8\u09c7\u09a8\u09be \u09ac\u09c7\u0997\u09ae",
+    "name": "Rusena Begum",
+    "nid": "9013381328732",
+    "dob": "1971-11-09",
+    "gender": "F",
+    "village": "069033810103",
+    "word": "0690338101",
+    "union": "06903381",
+    "post_office": "Dowara Bazer",
+    "post_code": "3070",
+    "father_name": null,
+    "mother_name": "\u09ac\u09a6\u09a8 \u09ac\u09bf\u09ac\u09bf",
+    "spouse_name": "\u09ae\u09c3\u09a4 \u09b8\u09cb\u09a8\u09be\u09ab\u09b0 \u0986\u09b2\u09c0"
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338101030004",
+  "fields": {
+    "name_bangla": "\u09ae\u09cb\u0983 \u09ae\u09b9\u09a8 \u09ae\u09bf\u09df\u09be",
+    "name": "Md:mohon mia",
+    "nid": "9013381319238",
+    "dob": "1952-01-16",
+    "gender": "M",
+    "village": "069033810103",
+    "word": "0690338101",
+    "union": "06903381",
+    "post_office": "Doara Bagar",
+    "post_code": "3070",
+    "father_name": "\u0986\u09ac\u09cd\u09a6\u09c1\u09b2 \u09b9\u09be\u09a8\u09cd\u09a8\u09be\u09a8",
+    "mother_name": "\u09ae\u09df\u09a8\u09be \u09ac\u09bf\u09ac\u09bf",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338101030005",
+  "fields": {
+    "name_bangla": "\u09ae\u09cb\u0983 \u09ac\u09c1\u09b2\u09ac\u09c1\u09b2 \u09ae\u09bf\u09df\u09be",
+    "name": "Md: Bulbul mia",
+    "nid": "9013381319239",
+    "dob": "1954-06-17",
+    "gender": "M",
+    "village": "069033810103",
+    "word": "0690338101",
+    "union": "06903381",
+    "post_office": "Dowara Bazer",
+    "post_code": "3070",
+    "father_name": "\u0986\u09ac\u09cd\u09a6\u09c1\u09b2 \u09b9\u09be\u09a8\u09cd\u09a8\u09be\u09a8",
+    "mother_name": "\u09ae\u09df\u09a8\u09be",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338101030006",
+  "fields": {
+    "name_bangla": "\u09ae\u09cb\u099b\u09be\u0983 \u09b8\u09ae\u09b0\u09a4\u09be \u09ac\u09bf\u09ac\u09bf",
+    "name": "mst:samarta bibi",
+    "nid": "9013381318016",
+    "dob": "1958-06-05",
+    "gender": "F",
+    "village": "069033810103",
+    "word": "0690338101",
+    "union": "06903381",
+    "post_office": "Dowara Bazer",
+    "post_code": "3070",
+    "father_name": null,
+    "mother_name": "\u09ae\u09c3\u09a4\u0983 \u0995\u09c1\u09b2\u09b8\u09c1\u09ae \u09ac\u09c7\u0997\u09ae",
+    "spouse_name": "\u09ae\u09c3\u09a4\u0983 \u09a4\u09c1\u09df\u09be\u099c \u0986\u09b2\u09c0"
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338101030007",
+  "fields": {
+    "name_bangla": "\u09b8\u09be\u09df\u09a6\u09be \u09ac\u09c7\u0997\u09ae",
+    "name": "Sayda Begum",
+    "nid": "9013381318212",
+    "dob": "1989-04-12",
+    "gender": "F",
+    "village": "069033810103",
+    "word": "0690338101",
+    "union": "06903381",
+    "post_office": "Dowara Bazer",
+    "post_code": "3070",
+    "father_name": "\u09b0\u09cb\u09df\u09be\u09ac \u0986\u09b2\u09c0",
+    "mother_name": "\u09b9\u09be\u099b\u09be\u09a8 \u09ac\u09be\u09a8\u09c1",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338101030008",
+  "fields": {
+    "name_bangla": "\u09ae\u09cb\u099b\u09be\u0983 \u09b9\u09be\u0993\u09df\u09be\u09b0\u09c1\u09a8 \u09a8\u09c7\u099b\u09be",
+    "name": "MST HAWARUN NESA",
+    "nid": "9013381318203",
+    "dob": "1958-06-11",
+    "gender": "F",
+    "village": "069033810103",
+    "word": "0690338101",
+    "union": "06903381",
+    "post_office": "Dowara Bazer",
+    "post_code": "3070",
+    "father_name": null,
+    "mother_name": "\u09ae\u09c3\u09a4 \u09ac\u09cb\u09a6\u09bf",
+    "spouse_name": "\u0986\u09ac\u09cd\u09a6\u09c2\u09b2 \u0996\u09be\u09b2\u09c7\u0995"
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338101030009",
+  "fields": {
+    "name_bangla": "\u09ae\u09a8\u09cb\u09df\u09be\u09b0\u09be  \u09ac\u09c7\u0997\u09ae",
+    "name": "MONWARA BEGUM",
+    "nid": "9013381318147",
+    "dob": "1950-05-07",
+    "gender": "F",
+    "village": "069033810103",
+    "word": "0690338101",
+    "union": "06903381",
+    "post_office": "Dowara Bazer",
+    "post_code": "3070",
+    "father_name": null,
+    "mother_name": "\u09ae\u09c3\u09a4\u0983 \u09ac\u09cb\u09a6\u09a8 \u09ac\u09bf\u09ac\u09bf",
+    "spouse_name": "\u0995\u09be\u09b2\u09be \u09ae\u09bf\u09df\u09be"
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338101030010",
+  "fields": {
+    "name_bangla": "\u09ae\u09cb\u099b\u0983 \u09b8\u09ab\u09b0\u09c1\u09a8 \u09a8\u09c7\u099b\u09be",
+    "name": "Mst Sofarun Nesa",
+    "nid": "9013381319065",
+    "dob": "1967-09-22",
+    "gender": "F",
+    "village": "069033810103",
+    "word": "0690338101",
+    "union": "06903381",
+    "post_office": "Doara Bagar",
+    "post_code": "3070",
+    "father_name": null,
+    "mother_name": "\u099b\u09df\u09ab\u09c1\u09a8 \u09a8\u09c7\u099b\u09be",
+    "spouse_name": "\u09ae\u09cb\u0983 \u0986\u09ae\u09bf\u09b0\u09c1\u09b2 \u09b9\u0995"
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338101030011",
+  "fields": {
+    "name_bangla": "\u09ae\u09cb\u0983 \u09b8\u09be\u09a6\u09cd\u09a6\u09be\u09ae \u09b9\u09cb\u09b8\u09c7\u09a8",
+    "name": "Md Saddam Hossain",
+    "nid": "9013381318780",
+    "dob": "1989-01-01",
+    "gender": "M",
+    "village": "069033810103",
+    "word": "0690338101",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": null,
+    "father_name": "\u09ae\u09c3\u09a4 \u09b9\u09be\u099b\u09a8 \u0986\u09b2\u09c0",
+    "mother_name": "\u09ae\u09cb\u099b\u09be\u0983 \u099c\u09bf\u09b0\u09be\u09a4\u09c1\u09a8 \u09a8\u09c7\u099b\u09be",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338101030012",
+  "fields": {
+    "name_bangla": "\u09ae\u09cb\u099b\u09be\u0983 \u0996\u09be\u09a4\u09bf\u09ac\u09c1\u09a8 \u09a8\u09c7\u099b\u09be",
+    "name": "Mst Khatibun Nesa",
+    "nid": "9013381319185",
+    "dob": "1968-11-08",
+    "gender": "F",
+    "village": "069033810103",
+    "word": "0690338101",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": null,
+    "father_name": null,
+    "mother_name": "\u09ae\u09cb\u099b\u09be\u0983 \u09a8\u09be\u099c\u09bf\u09ac\u09c1\u09a8 \u09a8\u09c7\u099b\u09be",
+    "spouse_name": "\u09ae\u09cb\u0983 \u09ab\u099c\u09b0 \u0986\u09b2\u09c0"
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338101030013",
+  "fields": {
+    "name_bangla": "\u09b8\u09ac\u09c1\u099c \u09ae\u09bf\u09df\u09be",
+    "name": "Sabuj Mia",
+    "nid": "9013381319452",
+    "dob": "1989-09-15",
+    "gender": "M",
+    "village": "069033810103",
+    "word": "0690338101",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": null,
+    "father_name": "\u0995\u09be\u09b2\u09be \u09ae\u09bf\u09df\u09be",
+    "mother_name": "\u09b6\u09ae\u09b8\u09c1\u09a8 \u09a8\u09c7\u099b\u09be",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338101030014",
+  "fields": {
+    "name_bangla": "\u09ae\u09cb\u099b\u09be\u0983 \u0986\u09df\u09b0\u09c1\u09a8 \u09a8\u09c7\u099b\u09be",
+    "name": "Mst Ayrun Nesa",
+    "nid": "90133813118107",
+    "dob": "1948-08-10",
+    "gender": "F",
+    "village": "069033810103",
+    "word": "0690338101",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": null,
+    "father_name": null,
+    "mother_name": "\u09ae\u09c3\u09a4 \u09a8\u09c1\u09b0\u099c\u09be\u09a8 \u09ac\u09bf\u09ac\u09bf",
+    "spouse_name": "\u09ae\u09c3\u09a4 \u09b8\u09bf\u0995\u09a8\u09cd\u09a6\u09b0 \u0986\u09b2\u09c0"
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338101030015",
+  "fields": {
+    "name_bangla": "\u09ae\u09cb\u0983 \u09b8\u09be\u09b0\u09be\u09ab\u09a4 \u0986\u09b2\u09c0",
+    "name": "Md Sarafat Ali",
+    "nid": "9013381318591",
+    "dob": "1948-03-02",
+    "gender": "M",
+    "village": "069033810103",
+    "word": "0690338101",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": null,
+    "father_name": "\u09ae\u09c3\u09a4 \u09b8\u09c1\u0993\u09df\u09be\u0987 \u09ae\u09bf\u09df\u09be",
+    "mother_name": "\u09ae\u09c3\u09a4 \u0995\u09c7\u099b\u09b0\u09bf \u09ae\u09be\u09b2\u09be",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338101030016",
+  "fields": {
+    "name_bangla": "\u09ae\u09cb\u0983 \u09a6\u09c1\u09b2\u09be\u09b2 \u09ae\u09bf\u09df\u09be",
+    "name": "Md Dulal Mia",
+    "nid": "9013381318759",
+    "dob": "1981-12-09",
+    "gender": "M",
+    "village": "069033810103",
+    "word": "0690338101",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": null,
+    "father_name": "\u0986\u09ac\u09cd\u09a6\u09c1\u09b2 \u0995\u09be\u09a6\u09bf\u09b0",
+    "mother_name": "\u09ac\u09be\u09a8\u09c7\u099b\u09be \u0996\u09be\u09a4\u09c1\u09a8",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338101030017",
+  "fields": {
+    "name_bangla": "\u09ae\u09cb\u0983 \u09ab\u09be\u09b0\u09c1\u0995 \u0986\u09b9\u09ae\u09a6",
+    "name": "Md Faruque Ahmed",
+    "nid": "9013381319306",
+    "dob": "1960-03-07",
+    "gender": "M",
+    "village": "069033810103",
+    "word": "0690338101",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": null,
+    "father_name": "\u09ae\u09c3\u09a4 \u09ae\u09be\u09b9\u09ae\u09a6 \u0986\u09b2\u09c0",
+    "mother_name": "\u0986\u09a8\u09cb\u09df\u09be\u09b0\u09c1\u09a8 \u09a8\u09c7\u099b\u09be",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338101030018",
+  "fields": {
+    "name_bangla": "\u09ae\u09cb\u0983 \u09b0\u09ae\u099c\u09be\u09a8 \u0986\u09b2\u09c0",
+    "name": "Md Ramjan Ali",
+    "nid": "90133813119325",
+    "dob": "1978-04-28",
+    "gender": "M",
+    "village": "069033810103",
+    "word": "0690338101",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": null,
+    "father_name": "\u09ae\u09c3\u09a4 \u09ae\u09cb\u0983 \u09a4\u09c7\u09b0\u09be \u09ae\u09bf\u09df\u09be",
+    "mother_name": "\u09ae\u09cb\u099b\u09be\u0983 \u0995\u09ac\u09b2\u09cb\u099c \u099c\u09be\u09b9\u09be\u09a8 \u0997\u09c7\u09a8\u09c0",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338101030019",
+  "fields": {
+    "name_bangla": "\u09a8\u09be\u099c\u09ae\u09be \u09ac\u09c7\u0997\u09ae",
+    "name": "Nazma Begum",
+    "nid": "9013381319226",
+    "dob": "1975-08-21",
+    "gender": "F",
+    "village": "069033810103",
+    "word": "0690338101",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": null,
+    "father_name": null,
+    "mother_name": "\u09b9\u09be\u09b0\u09bf\u0995\u09c1\u09a8 \u09a8\u09c7\u099b\u09be",
+    "spouse_name": "\u0986\u09b2\u09a4\u09be\u09ac \u09ae\u09bf\u09df\u09be"
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338101030020",
+  "fields": {
+    "name_bangla": "\u09ae\u09a8\u09b8\u09c1\u09b0 \u09ae\u09bf\u09df\u09be",
+    "name": "Munsur Mia",
+    "nid": "9013381318722",
+    "dob": "1989-12-20",
+    "gender": "M",
+    "village": "069033810103",
+    "word": "0690338101",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": null,
+    "father_name": "\u0986\u09b8\u0995\u09b0 \u0986\u09b2\u09c0",
+    "mother_name": "\u0986\u09a8\u09cb\u09df\u09be\u09b0\u09be \u09ac\u09c7\u0997\u09ae",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338101030021",
+  "fields": {
+    "name_bangla": "\u09ae\u09cb\u0983 \u09ae\u09cb\u09ac\u09be\u09b0\u0995 \u0986\u09b2\u09c0",
+    "name": "Md Mobark Ali",
+    "nid": "9013381318610",
+    "dob": "1982-12-20",
+    "gender": "M",
+    "village": "069033810103",
+    "word": "0690338101",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": null,
+    "father_name": "\u09ae\u09c3\u09a4 \u09a4\u09c7\u09b0\u09be \u09ae\u09bf\u09df\u09be",
+    "mother_name": "\u09ae\u09cb\u099b\u09be\u0983 \u0995\u09ac\u09b2\u09cb\u099c\u09be\u09b9\u09be\u09a8 \u0997\u09c7\u09a8\u09c0",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338101030022",
+  "fields": {
+    "name_bangla": "\u09ae\u09cb\u0983 \u09b8\u09be\u099c\u09be\u09ac\u09c1\u09b0 \u09b0\u09b9\u09ae\u09be\u09a8",
+    "name": "Md Sajabur Rahman",
+    "nid": "9013381318991",
+    "dob": "1961-09-12",
+    "gender": "M",
+    "village": "069033810103",
+    "word": "0690338101",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": null,
+    "father_name": "\u09ae\u09c3\u09a4 \u09a4\u09ae\u099c\u09bf\u09a6 \u0989\u09b2\u09cd\u09b2\u09be",
+    "mother_name": "\u09ae\u09c3\u09a4 \u09b9\u09be\u0993\u09df\u09be\u09b0\u09c1\u09a8 \u09a8\u09c7\u099b\u09be",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338101030023",
+  "fields": {
+    "name_bangla": "\u09ae\u09cb\u099b\u09be\u0983 \u0986\u09df\u09c7\u09b6\u09be \u0996\u09be\u09a4\u09c1\u09a8",
+    "name": "Mst Ayesha Khatun",
+    "nid": "9013381318207",
+    "dob": "1978-08-23",
+    "gender": "F",
+    "village": "069033810103",
+    "word": "0690338101",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": null,
+    "father_name": null,
+    "mother_name": "\u0986\u09df\u09b0\u09c1\u09a8 \u09a8\u09c7\u099b\u09be",
+    "spouse_name": "\u09ae\u09cb\u0983 \u0995\u09be\u09b2\u09be \u09ae\u09bf\u09df\u09be"
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338101030024",
+  "fields": {
+    "name_bangla": "\u09ae\u09cb\u099b\u09be\u0983 \u09ae\u09a8\u09ae\u09be\u09b2\u09be",
+    "name": "Mst Monmala",
+    "nid": "9013381318038",
+    "dob": "1978-04-22",
+    "gender": "F",
+    "village": "069033810103",
+    "word": "0690338101",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": null,
+    "father_name": null,
+    "mother_name": "\u09ae\u09cb\u099b\u09be\u0983 \u09ab\u09c1\u09b2 \u09ac\u09be\u09a8\u09c1",
+    "spouse_name": "\u09ae\u09cb\u0983 \u0995\u09be\u09b2\u09be \u09ae\u09bf\u09df\u09be"
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338101030025",
+  "fields": {
+    "name_bangla": "\u0995\u09df\u09c7\u099b \u09ae\u09bf\u09df\u09be",
+    "name": "Kayes Mia",
+    "nid": "9013381319453",
+    "dob": "1989-10-07",
+    "gender": "M",
+    "village": "069033810103",
+    "word": "0690338101",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": null,
+    "father_name": "\u09ae\u09c1\u0995\u09cd\u09a4\u09be\u09b0 \u0986\u09b2\u09c0",
+    "mother_name": "\u09ae\u09be\u09b2\u09c7\u0995\u09be \u09ac\u09c7\u0997\u09ae",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338101030026",
+  "fields": {
+    "name_bangla": "\u09ae\u09cb\u0983 \u09b8\u09c1\u099c\u09be\u09a4 \u09b9\u09cb\u09b8\u09c7\u09a8",
+    "name": "Md Sujat Hossain",
+    "nid": "9013381319429",
+    "dob": "1982-08-12",
+    "gender": "M",
+    "village": "069033810103",
+    "word": "0690338101",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": null,
+    "father_name": "\u0986\u09ac\u09cd\u09a6\u09c1\u09b2 \u099b\u09a4\u09cd\u09a4\u09be\u09b0",
+    "mother_name": "\u09ae\u09cb\u099b\u09be\u0983 \u09b0\u09c7\u09b9\u09c7\u09a8\u09be \u09ac\u09c7\u0997\u09ae",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338101030027",
+  "fields": {
+    "name_bangla": "\u09b8\u09be\u09b9\u09be\u09a8\u09be\u09b0\u09be \u09ac\u09c7\u0997\u09ae",
+    "name": "Sahanara Begum",
+    "nid": "9013381319219",
+    "dob": "1965-08-28",
+    "gender": "F",
+    "village": "069033810103",
+    "word": "0690338101",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": null,
+    "father_name": null,
+    "mother_name": "\u0997\u09cb\u09b2\u09a8\u09be\u09b9\u09be\u09b0 \u09ac\u09c7\u0997\u09ae",
+    "spouse_name": "\u0986\u09ac\u09cd\u09a6\u09c1\u09b2 \u0996\u09be\u09b2\u09bf\u0995"
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338101030028",
+  "fields": {
+    "name_bangla": "\u09b6\u09be\u09ae\u09c0\u09ae \u0986\u09b9\u09ae\u09a6",
+    "name": "Shamim Ahmed",
+    "nid": "9013381319350",
+    "dob": "1968-07-08",
+    "gender": "M",
+    "village": "069033810103",
+    "word": "0690338101",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": null,
+    "father_name": "\u09ae\u09be\u09b9\u09ae\u09a6 \u0986\u09b2\u09c0",
+    "mother_name": "\u0986\u09a8\u09cb\u09df\u09be\u09b0 \u09ac\u09c7\u0997\u09ae",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338101030029",
+  "fields": {
+    "name_bangla": "\u0987\u099b\u09ae\u09be\u09a4\u09c1\u09a8 \u09a8\u09c7\u099b\u09be",
+    "name": "Ismatun Nesa",
+    "nid": "9013381319353",
+    "dob": "1964-03-04",
+    "gender": "F",
+    "village": "069033810103",
+    "word": "0690338101",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": null,
+    "father_name": null,
+    "mother_name": "\u09ae\u09c3\u09a4 \u09aa\u09c1\u09a4\u09c1\u09b2 \u09ac\u09c7\u0997\u09ae",
+    "spouse_name": "\u0995\u09a8\u09cd\u099f\u09c1 \u09ae\u09bf\u09df\u09be"
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338101030030",
+  "fields": {
+    "name_bangla": "\u09ae\u09cb\u0983 \u0986\u09ac\u09cd\u09a6\u09c1\u09b2 \u0995\u09be\u09b2\u09be\u09ae",
+    "name": "Md Abdul Kalam",
+    "nid": "9013381319108",
+    "dob": "1960-06-16",
+    "gender": "M",
+    "village": "069033810103",
+    "word": "0690338101",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": null,
+    "father_name": "\u09ae\u09c3\u09a4 \u09ae\u09cb\u099c\u09be\u09ae\u09cd\u09ae\u09c7\u09b2 \u0986\u09b2\u09c0",
+    "mother_name": "\u09ae\u09c3\u09a4 \u09a4\u09c7\u09b0\u09be\u09ac\u09be\u09a8 \u09a8\u09c7\u099b\u09be",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338101030031",
+  "fields": {
+    "name_bangla": "\u099c\u09ae\u09bf\u09b0\u09c1\u09b2 \u09b9\u0995",
+    "name": "Jamirul Haque",
+    "nid": "9013381319360",
+    "dob": "1965-07-26",
+    "gender": "M",
+    "village": "069033810103",
+    "word": "0690338101",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": null,
+    "father_name": "\u09ae\u09c3\u09a4 \u0986\u09ac\u09cd\u09a6\u09c1\u09b2 \u099c\u09b2\u09bf\u09b2",
+    "mother_name": "\u099c\u09df\u09ab\u09c1\u09b2 \u09a8\u09c7\u099b\u09be",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338101030033",
+  "fields": {
+    "name_bangla": "\u09ae\u09cb: \u0986\u099c\u09be\u09a6 \u09ae\u09bf\u09df\u09be",
+    "name": "Md Azad mia",
+    "nid": "9013381321194",
+    "dob": "1987-03-11",
+    "gender": "M",
+    "village": "069033810103",
+    "word": "0690338101",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": "3070",
+    "father_name": "\u0986\u09ac\u09cd\u09a6\u09c1\u09b2 \u09b9\u09be\u09a8\u09cd\u09a8\u09be\u09a8",
+    "mother_name": "\u09ae\u09cb\u099b\u09be: \u09ae\u09be\u09df\u09be\u09b0\u09c1\u09a8 \u09a8\u09c7\u099b\u09be",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338101030034",
+  "fields": {
+    "name_bangla": "\u09ae\u09cb: \u09a8\u09c1\u09b0\u09c1\u09b2 \u09b9\u0995",
+    "name": "Md Nurul  Haque",
+    "nid": "9013381320733",
+    "dob": "1936-05-05",
+    "gender": "M",
+    "village": "069033810103",
+    "word": "0690338101",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": "3070",
+    "father_name": "\u09ae\u09c3\u09a4  \u0993\u09df\u09be\u09b9\u09bf\u09a6 \u0986\u09b2\u09c0",
+    "mother_name": "\u09ae\u09c3\u09a4 \u0986\u09ae\u09bf\u09b0\u09c1\u09a8 \u09a8\u09c7\u099b\u09be",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338101030035",
+  "fields": {
+    "name_bangla": "\u09ae\u09cb: \u09b0\u09b9\u09c1\u09b2 \u0986\u09ae\u09bf\u09a8",
+    "name": "Md Ruhul Amin",
+    "nid": "9013381320724",
+    "dob": "1959-10-10",
+    "gender": "M",
+    "village": "069033810103",
+    "word": "0690338101",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": "3070",
+    "father_name": "\u09ae\u09cb: \u09a8\u09c1\u09b0\u09c1\u09b2 \u09b9\u0995",
+    "mother_name": "\u09ae\u09cb\u099b\u09be: \u09b9\u09be\u0993\u09df\u09be\u09b0\u09c1\u09a8 \u09a8\u09c7\u099b\u09be",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338101030036",
+  "fields": {
+    "name_bangla": "\u09ae\u09cb: \u0995\u09ac\u09bf\u09b0 \u0986\u09b9\u09ae\u09a6",
+    "name": "Md Kabir Ahmad",
+    "nid": "9013381321066",
+    "dob": "1980-03-23",
+    "gender": "M",
+    "village": "069033810103",
+    "word": "0690338101",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": "3070",
+    "father_name": "\u09ae\u09cb: \u0986\u09ac\u09cd\u09a6\u09c1\u09b2 \u09b9\u09be\u09a8\u09cd\u09a8\u09be\u09a8",
+    "mother_name": "\u09ae\u09cb\u099b\u09be: \u09b9\u09be\u09b2\u09bf\u09ae\u09be \u0996\u09be\u09a4\u09c1\u09a8",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338101030037",
+  "fields": {
+    "name_bangla": "\u09ae\u09cb\u099b\u09be: \u09b8\u09cb\u09a8\u09be\u09b0\u09be \u09ac\u09c7\u0997\u09ae",
+    "name": "Mst Sunara begum",
+    "nid": "9013381320966",
+    "dob": "1971-09-27",
+    "gender": "F",
+    "village": "069033810103",
+    "word": "0690338101",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": "3070",
+    "father_name": "\u09ae\u09cb: \u09b2\u09be\u09b2 \u09ae\u09bf\u09df\u09be",
+    "mother_name": "\u09ae\u09cb\u099b\u09be: \u09a4\u09be\u09b9\u09ae\u09bf\u09a8\u09be \u09ac\u09c7\u0997\u09ae",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338101030039",
+  "fields": {
+    "name_bangla": "\u09b9\u0995\u09bf\u09b0 \u09ae\u09bf\u09df\u09be",
+    "name": "Hokir Mia",
+    "nid": "9013381320868",
+    "dob": "1974-05-11",
+    "gender": "M",
+    "village": "069033810103",
+    "word": "0690338101",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": "3070",
+    "father_name": "\u09ae\u09c3\u09a4 \u09b8\u09cb\u09a8\u09be \u09ae\u09bf\u09df\u09be",
+    "mother_name": "\u09b8\u09b0\u09bf\u09ab\u09c1\u09b2 \u09a8\u09c7\u099b\u09be",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "069033810103003\u09ee",
+  "fields": {
+    "name_bangla": "\u09ae\u09cb:\u09b0\u09c1\u09b9\u09c1\u09b2 \u0986\u09ae\u09bf\u09a8",
+    "name": "Md Ruhul Amin",
+    "nid": "9013381320785",
+    "dob": "1979-03-20",
+    "gender": "M",
+    "village": "069033810103",
+    "word": "0690338101",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": "3070",
+    "father_name": "\u09ae\u09cb: \u0986\u09ae\u09c1\u09a6 \u0986\u09b2\u09c0",
+    "mother_name": "\u09ae\u09cb\u099b\u09be \u0986\u099b\u09bf\u09df\u09be \u09ac\u09c7\u0997\u09ae",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338101030040",
+  "fields": {
+    "name_bangla": "\u09ae\u09cb: \u0986\u09ae\u09bf\u09b0 \u09b9\u09cb\u09b8\u09c7\u09a8",
+    "name": "Md Amir Hussain",
+    "nid": "90133813210714",
+    "dob": "1983-05-05",
+    "gender": "M",
+    "village": "069033810103",
+    "word": "0690338101",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": "3070",
+    "father_name": "\u09ae\u09c3\u09a4 \u09ae\u0999\u09cd\u0997\u09b2 \u09ae\u09bf\u09df\u09be",
+    "mother_name": "\u09ae\u09cb\u099b\u09be: \u09b0\u0982\u09ae\u09be\u09b2\u09be \u09ac\u09bf\u09ac\u09bf",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338101030042",
+  "fields": {
+    "name_bangla": "\u09ae\u09cb: \u09b6\u09be\u09b6\u09c0\u09ae \u0989\u09a6\u09cd\u09a6\u09bf\u09a8",
+    "name": "Md Shamim Uddin",
+    "nid": "9013381320889",
+    "dob": "1988-03-18",
+    "gender": "M",
+    "village": "069033810103",
+    "word": "0690338101",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": "3070",
+    "father_name": "\u09ae\u09cb: \u099c\u09b9\u09c1\u09b0 \u0986\u09b2\u09c0",
+    "mother_name": "\u09ae\u09cb\u099b\u09be; \u09ab\u099c\u09bf\u09b0\u09c1\u09a8 \u09a8\u09c7\u099b\u09be",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338101030043",
+  "fields": {
+    "name_bangla": "\u09ae\u09cb: \u09b0\u09ae\u099c\u09be\u09a8 \u0986\u09b2\u09c0",
+    "name": "Md Ramjan Ali",
+    "nid": "9013381320637",
+    "dob": "1967-03-09",
+    "gender": "M",
+    "village": "069033810103",
+    "word": "0690338101",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": "3070",
+    "father_name": "\u09ae\u09c3\u09a4 \u0986\u09ac\u09cd\u09a6\u09c1\u09b2 \u0993\u09df\u09be\u09b9\u09bf\u09a6",
+    "mother_name": "\u09ae\u09c3\u09a4 \u099c\u09b2\u09bf\u0995\u09be \u09ac\u09bf\u09ac\u09bf",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338101030044",
+  "fields": {
+    "name_bangla": "\u09b8\u09be\u09b2\u09be \u0989\u09a6\u09cd\u09a6\u09bf\u09a8",
+    "name": "Sala Uddin",
+    "nid": "19759013381000006",
+    "dob": "1975-03-02",
+    "gender": "M",
+    "village": "069033810103",
+    "word": "0690338101",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": "3070",
+    "father_name": "\u0987\u099b\u09be\u0995 \u0986\u09b2\u09c0",
+    "mother_name": "\u09ae\u09cb\u099b\u09be: \u0996\u09b0\u09ab\u09c1\u09b2 \u09a8\u09c7\u099b\u09be",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338101030045",
+  "fields": {
+    "name_bangla": "\u09ae\u09cb: \u0986\u09b2\u09ae\u0997\u09c0\u09b0",
+    "name": "Md Alamgir",
+    "nid": "9013381321429",
+    "dob": "1989-01-03",
+    "gender": "M",
+    "village": "069033810103",
+    "word": "0690338101",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": "3070",
+    "father_name": "\u09ae\u09c3\u09a4 \u09b8\u09c1\u09a8\u09be \u09ae\u09bf\u09df\u09be",
+    "mother_name": "\u09ae\u09cb\u099b\u09be: \u09b8\u09c1\u09a8\u09be\u09b0\u09be \u09ac\u09c7\u0997\u09ae",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338101030046",
+  "fields": {
+    "name_bangla": "\u098f\u09ae\u09b0\u09be\u099c\u09c1\u09b0 \u09b9\u09cb\u09b8\u09c7\u09a8",
+    "name": "Amrajul Hussain",
+    "nid": "19919013381000025",
+    "dob": "1991-11-05",
+    "gender": "M",
+    "village": "069033810103",
+    "word": "0690338101",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": "3070",
+    "father_name": "\u09ae\u09c3\u09a4 \u09b8\u09c1\u09a8\u09be \u09ae\u09bf\u09df\u09be",
+    "mother_name": "\u09ae\u09c3\u09a4 \u09b8\u09cb\u09a8\u09be\u09b0\u09be \u09ac\u09c7\u0997\u09ae",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338101030047",
+  "fields": {
+    "name_bangla": "\u09ae\u09cb: \u09b8\u09ab\u09bf\u0995\u09c1\u09b2 \u0987\u09b8\u09b2\u09be\u09ae",
+    "name": "Md Sofiqul Islam",
+    "nid": "9013381321263",
+    "dob": "1970-05-15",
+    "gender": "M",
+    "village": "069033810103",
+    "word": "0690338101",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": "3070",
+    "father_name": "\u0987\u099b\u09be\u0995 \u09ae\u09bf\u09df\u09be",
+    "mother_name": "\u09ae\u09cb\u099b\u09be: \u0996\u09b0\u09ab\u09c1\u09b2 \u09a8\u09c7\u099b\u09be",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338101030049",
+  "fields": {
+    "name_bangla": "\u09ae\u09cb: \u099c\u09df\u09a8\u09be\u09b2 \u09ae\u09bf\u09df\u09be",
+    "name": "Md Joynal mia",
+    "nid": "9013381321543",
+    "dob": "1981-02-08",
+    "gender": "M",
+    "village": "069033810103",
+    "word": "0690338101",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": "3070",
+    "father_name": "\u09ae\u09cb: \u099c\u09ae\u09bf\u09b0 \u0989\u09a6\u09cd\u09a6\u09bf\u09a8",
+    "mother_name": "\u09ae\u09cb\u099b\u09be: \u09ae\u09a7\u09c1 \u09ae\u09be\u09b2\u09be",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "069033810103004\u09ee",
+  "fields": {
+    "name_bangla": "\u09ae\u09cb\u099b\u09be: \u09b8\u09ae\u09b0\u09c1\u09a8 \u09a8\u09c7\u099b\u09be",
+    "name": "Mst Somun Nesa",
+    "nid": "9013381321560",
+    "dob": "1947-03-13",
+    "gender": "F",
+    "village": "069033810103",
+    "word": "0690338101",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": "3070",
+    "father_name": null,
+    "mother_name": "\u09ae\u09c3\u09a4  \u09a6\u09df\u09be \u09ac\u09bf\u09ac\u09bf",
+    "spouse_name": "\u09ae\u09c3\u09a4 \u0986\u09ac\u09cd\u09a6\u09c1\u09b0 \u0996\u09be\u09b2\u09bf\u0995"
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338101030050",
+  "fields": {
+    "name_bangla": "\u09ae\u09cb: \u09b2\u09c7\u099b\u09c1 \u09ae\u09bf\u09df\u09be",
+    "name": "Md Lechu Mia",
+    "nid": "9013381321529",
+    "dob": "1967-04-06",
+    "gender": "M",
+    "village": "069033810103",
+    "word": "0690338101",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": "3070",
+    "father_name": "\u09ae\u09cb: \u09ae\u0996\u099c\u09cd\u099c\u09b0 \u09ae\u09bf\u09df\u09be",
+    "mother_name": "\u09ae\u09cb\u099b\u09be: \u09a8\u09c7\u09b9\u09be\u09b0\u09c1\u09a8 \u09a8\u09c7\u099b\u09be",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338103010001",
+  "fields": {
+    "name_bangla": "\u09ae\u09cb: \u0986\u09ac\u09cd\u09a6\u09c1\u09b2 \u0986\u09b9\u09be\u09a6",
+    "name": "Md Abdul Ahed",
+    "nid": "9013381320323",
+    "dob": "1958-02-25",
+    "gender": "M",
+    "village": "069033810301",
+    "word": "0690338103",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": "3070",
+    "father_name": "\u09ae\u09c3\u09a4- \u09a4\u09be\u099c\u09c1\u09b2 \u09ae\u09bf\u09df\u09be",
+    "mother_name": "\u09ae\u09c3\u09a4- \u099b\u09c8\u09df\u09a6\u09c1\u09a8 \u09a8\u09c7\u099b\u09be",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338103010002",
+  "fields": {
+    "name_bangla": "\u09ae\u09cb \u09b0\u09be\u09b6\u09bf\u09a6 \u0986\u09b2\u09c0",
+    "name": "Md Rashid Ali",
+    "nid": "9013381320851",
+    "dob": "1970-04-13",
+    "gender": "M",
+    "village": "069033810301",
+    "word": "0690338103",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": "3070",
+    "father_name": "\u09ae\u09c3\u09a4- \u09ae\u09c1\u09b8\u09b2\u09bf\u09ae \u0986\u09b2\u09c0",
+    "mother_name": "\u09ae\u09cb\u099b\u09be \u0995\u09c1\u09a6\u09c7\u099c\u09be \u09ac\u09c7\u0997\u09ae",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338103010003",
+  "fields": {
+    "name_bangla": "\u09ae\u09cb\u09b8\u09cd\u09a4\u09be\u0995 \u0986\u09b9\u09ae\u09a6",
+    "name": "Mostak Ahmed",
+    "nid": "9013381321318",
+    "dob": "1982-02-10",
+    "gender": "M",
+    "village": "069033810301",
+    "word": "0690338103",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": "3070",
+    "father_name": "\u09ae\u09c3\u09a4- \u09ae\u09df\u09a8\u09be \u09ae\u09bf\u09df\u09be",
+    "mother_name": "\u09b8\u09be\u09b0\u09bf\u099c\u09c1\u09a8 \u09a8\u09c7\u099b\u09be",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338103010004",
+  "fields": {
+    "name_bangla": "\u09ae\u09cb\u099b\u09be \u09b0\u09c1\u09b9\u09c7\u09a8\u09be \u0986\u0995\u09cd\u09a4\u09be\u09b0",
+    "name": "MST RUHENA AKTER",
+    "nid": "1994901338132000009",
+    "dob": "1994-11-18",
+    "gender": "F",
+    "village": "069033810301",
+    "word": "0690338103",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": "3070",
+    "father_name": "\u09ae\u09cb: \u0986: \u0995\u09be\u0987\u09df\u09c1\u09ae",
+    "mother_name": "\u09ae\u09bf\u09a8\u09be\u09b0\u09be \u09ac\u09c7\u0997\u09ae",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338103010005",
+  "fields": {
+    "name_bangla": "\u09b6\u09be\u09aa\u09b2\u09be \u09ae\u09bf\u09df\u09be",
+    "name": "SHAFLA MIA",
+    "nid": "19949013381000304",
+    "dob": "1994-07-08",
+    "gender": "M",
+    "village": "069033810301",
+    "word": "0690338103",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": "3070",
+    "father_name": "\u09b8\u09cb\u09a8\u09be \u09ae\u09bf\u09df\u09be",
+    "mother_name": "\u09ae\u09cb\u099b\u09be \u0995\u09ae\u09b0\u09c1\u09a8 \u09a8\u09c7\u099b\u09be",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338103010006",
+  "fields": {
+    "name_bangla": "\u09ae\u09cb: \u099b\u09be\u09df\u09c7\u09a6 \u09b9\u09cb\u09b8\u09c7\u09a8",
+    "name": "Md SayodHossin",
+    "nid": "19879013381000004",
+    "dob": "1987-10-05",
+    "gender": "M",
+    "village": "069033810301",
+    "word": "0690338103",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": "3070",
+    "father_name": "\u09ae\u09c3\u09a4- \u09a4\u09cb\u09a4\u09be \u09ae\u09bf\u09df\u09be",
+    "mother_name": "\u09ae\u09cb\u099b\u09be: \u09a6\u09bf\u09b2\u09be\u09b0\u09be \u09ac\u09c7\u0997\u09ae",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338103010007",
+  "fields": {
+    "name_bangla": "\u09ae\u09cb\u099b\u09be: \u09b9\u099c\u09b2\u09a4\u09c1\u09a8 \u09a8\u09c7\u099b\u09be",
+    "name": "Mst Hajlatun Nesa",
+    "nid": "9013381320321403",
+    "dob": "1953-03-01",
+    "gender": "F",
+    "village": "069033810301",
+    "word": "0690338103",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": "3070",
+    "father_name": "\u09ae\u09c3\u09a4- \u0986\u09ac\u09c1 \u09a4\u09be\u09b9\u09c7\u09b0",
+    "mother_name": "\u09ae\u09c3\u09a4 \u0995\u09a4\u09b0\u09ab\u09c1\u09b2 \u09a8\u09c7\u099b\u09be",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338103010008",
+  "fields": {
+    "name_bangla": "\u09ae\u09cb: \u099c\u09be\u09ac\u09bf\u09a6 \u09b9\u09cb\u09b8\u09c7\u09a8",
+    "name": "MdZabid Hossin",
+    "nid": "19879013381000005",
+    "dob": "1987-11-11",
+    "gender": "M",
+    "village": "069033810301",
+    "word": "0690338103",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": "3070",
+    "father_name": "\u09ae\u09c3\u09a4- \u0986\u09ac\u09c1 \u09a4\u09be\u09b9\u09bf\u09b0",
+    "mother_name": "\u09ae\u09cb\u099b\u09be: \u09ab\u099c\u09a4\u09c1\u09b2 \u09a8\u09c7\u099b\u09be",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338103010009",
+  "fields": {
+    "name_bangla": "\u09ae\u09cb\u099b\u09be: \u099c\u09b9\u09c1\u09b0\u09be \u09ac\u09c7\u0997\u09ae",
+    "name": "Mst Johura Begum",
+    "nid": "9013381321402",
+    "dob": "1961-03-01",
+    "gender": "F",
+    "village": "069033810301",
+    "word": "0690338103",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": "3070",
+    "father_name": "\u09ae\u09c3\u09a4- \u09a4\u09c7\u09b0\u09be \u09ae\u09bf\u09df\u09be",
+    "mother_name": "\u09ae\u09c3\u09a4- \u0996\u09be\u0987\u09b0\u09c1\u09a8 \u09a8\u09c7\u099b\u09be",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338103010010",
+  "fields": {
+    "name_bangla": "\u09ae\u09cb: \u0995\u09be\u09ae\u09be\u09b2 \u0989\u09a6\u09cd\u09a6\u09bf\u09a8",
+    "name": "Md Kamal Uddin",
+    "nid": "9013381321241",
+    "dob": "1980-01-01",
+    "gender": "M",
+    "village": "069033810301",
+    "word": "0690338103",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": "3070",
+    "father_name": "\u09ae\u09cb: \u0986\u09ae\u09bf\u09b0\u09c1\u09b2 \u09b9\u0995",
+    "mother_name": "\u09ae\u09c3\u09a4 \u09ae\u0987\u09b2\u09be\u09a4\u09c1\u09a8 \u09a8\u09c7\u099b\u09be",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338103010011",
+  "fields": {
+    "name_bangla": "\u09ae\u09cb: \u09a8\u09c2\u09b0 \u0986\u09b9\u09ae\u09a6 \u09a8\u09c2\u09b0\u09be\u0987",
+    "name": "Md noor Ahmad Nurai",
+    "nid": "9013381321013",
+    "dob": "1970-02-13",
+    "gender": "M",
+    "village": "069033810301",
+    "word": "0690338103",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": "3070",
+    "father_name": "\u09ae\u09cb: \u0989\u09ae\u09b0 \u0986\u09b2\u09c0",
+    "mother_name": "\u09ae\u09c3\u09a4- \u09b8\u09c2\u09b0\u09cd\u09af\u09cd\u09af\u09ac\u09be\u09a8 \u09a8\u09c7\u099b\u09be",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338103010012",
+  "fields": {
+    "name_bangla": "\u09ae\u09cb:\u09ae\u09cb\u09a4\u09be\u0987\u09b0 \u0986\u09b2\u09c0",
+    "name": "Md Motair Ali",
+    "nid": "9013381320963",
+    "dob": "1969-06-16",
+    "gender": "M",
+    "village": "069033810301",
+    "word": "0690338103",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": "3070",
+    "father_name": "\u09ae\u09cb: \u0986\u09ac\u09cd\u09a6\u09c1\u09b2 \u09b9\u09be\u09a8\u09cd\u09a8\u09be\u09a8",
+    "mother_name": "\u09ae\u09cb\u099b\u09be: \u09b9\u09be\u09b2\u09bf\u09ae\u09be \u0996\u09be\u09a4\u09c1\u09a8",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338103010013",
+  "fields": {
+    "name_bangla": "\u0996\u09ab\u09b0\u09c1\u09a8 \u09a8\u09c7\u099b\u09be",
+    "name": "Kofrun Nesa",
+    "nid": "19879013381000002",
+    "dob": "1987-01-01",
+    "gender": "F",
+    "village": "069033810301",
+    "word": "0690338103",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": "3070",
+    "father_name": "\u09ae\u09cb: \u09ab\u09df\u09c7\u099c \u0989\u09a6\u09cd\u09a6\u09bf\u09a8",
+    "mother_name": "\u09ae\u09cb\u099b\u09be: \u09ae\u09a8\u09be\u09b0\u09c1\u09a8 \u09a8\u09c7\u099b\u09be",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338103010014",
+  "fields": {
+    "name_bangla": "\u09ae\u09cb: \u09b8\u09be\u09ae\u09b8\u09c1 \u09ae\u09bf\u09df\u09be",
+    "name": "Md Samsu Mia",
+    "nid": "9013381320321111",
+    "dob": "1953-06-02",
+    "gender": "M",
+    "village": "069033810301",
+    "word": "0690338103",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": "3070",
+    "father_name": "\u09ae\u09c3\u09a4 \u0986\u09ac\u09cd\u09a6\u09c1\u09b2 \u0997\u09ab\u09c1\u09b0",
+    "mother_name": "\u09ae\u09c3\u09a4 \u09ae\u09be\u09b9\u09bf\u09ac\u09c1\u09a8 \u09a8\u09c7\u099b\u09be",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338103010015",
+  "fields": {
+    "name_bangla": "\u09ae\u09cb:\u09ae\u09b9\u09bf\u09ac\u09c1\u09b0 \u09b0\u09b9\u09ae\u09be\u09a8",
+    "name": "Md Mohibur Nahman",
+    "nid": "9013381320320766",
+    "dob": "1975-06-12",
+    "gender": "M",
+    "village": "069033810301",
+    "word": "0690338103",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": "3070",
+    "father_name": "\u09ae\u09c3\u09a4- \u09ae\u099b\u09a6\u09cd\u09a6\u09b0 \u0986\u09b2\u09c0",
+    "mother_name": "\u09ae\u09c3\u09a4- \u099c\u09b0\u09bf\u09a8\u09be \u0996\u09be\u09a4\u09c1\u09a8",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338103010016",
+  "fields": {
+    "name_bangla": "\u09ae\u09cb:  \u09a4\u09be\u09b9\u09c7\u09b0 \u0989\u09a6\u09cd\u09a6\u09bf\u09a8",
+    "name": "Md Taher Uddin",
+    "nid": "9013381320321487",
+    "dob": "1983-11-12",
+    "gender": "M",
+    "village": "069033810301",
+    "word": "0690338103",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": "3070",
+    "father_name": "\u09ae\u09c3\u09a4-  \u099a\u09be\u0981\u09a8 \u09ae\u09bf\u09df\u09be",
+    "mother_name": "\u09ae\u09cb\u099b\u09be:  \u09a4\u09be\u099c\u09bf\u09ac\u09c1\u09a8 \u09a8\u09c7\u099b\u09be",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338103010017",
+  "fields": {
+    "name_bangla": "\u09ae\u09cb: \u099c\u09ae\u09b8\u09bf\u09a6 \u09ae\u09bf\u09df\u09be",
+    "name": "Md Jamsid Mia",
+    "nid": "9013381321100",
+    "dob": "1970-07-09",
+    "gender": "M",
+    "village": "069033810301",
+    "word": "0690338103",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": "3070",
+    "father_name": "\u09ae\u09cb: \u0986\u09ac\u09cd\u09a6\u09c1\u09b2 \u09ae\u09a8\u09cd\u09a8\u09be\u09a8",
+    "mother_name": "\u09ae\u09cb\u099b\u09be: \u09b9\u09be\u0993\u09df\u09be\u09b0\u09c1\u09a8 \u09a8\u09c7\u099b\u09be",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338103010018",
+  "fields": {
+    "name_bangla": "\u0986\u09ac\u09c1\u09b2 \u0995\u09be\u09b2\u09be\u09ae",
+    "name": "Abul  Kalam",
+    "nid": "9013381321258",
+    "dob": "1943-02-08",
+    "gender": "M",
+    "village": "069033810301",
+    "word": "0690338103",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": "3070",
+    "father_name": "\u09ae\u09c3\u09a4- \u0986\u09ac\u09cd\u09a6\u09b8 \u099b\u09be\u09ae\u09be\u09a6",
+    "mother_name": "\u09ae\u09c3\u09a4- \u0996\u09c1\u09a6\u09c7\u099c\u09be \u09ac\u09c7\u0997\u09ae",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338103010019",
+  "fields": {
+    "name_bangla": "\u09ae\u09cb: \u09ab\u0995\u09bf\u09b0 \u09ae\u09bf\u09df\u09be",
+    "name": "Md Fokir Mia",
+    "nid": "9013381321108",
+    "dob": "1958-01-01",
+    "gender": "M",
+    "village": "069033810301",
+    "word": "0690338103",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": "3070",
+    "father_name": "\u09ae\u09c3\u09a4- \u0986\u09ac\u09cd\u09a6\u09c1\u09b2 \u09b9\u0995",
+    "mother_name": "\u0986\u09b0\u09bf\u09ab\u09c1\u09b2 \u09a8\u09c7\u099b\u09be",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338103010020",
+  "fields": {
+    "name_bangla": "\u09ae\u09cb: \u0986\u09ac\u09c1\u09b2 \u0995\u09be\u09b2\u09be\u09ae \u0995\u09be\u09b2\u09be",
+    "name": "Md Abul Kalam Kala",
+    "nid": "9013381321356",
+    "dob": "1964-05-10",
+    "gender": "M",
+    "village": "069033810301",
+    "word": "0690338103",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": "3070",
+    "father_name": "\u09ae\u09c3\u09a4- \u09ac\u09b0\u0995\u09a4 \u0986\u09b2\u09c0",
+    "mother_name": "\u09ae\u09c3\u09a4- \u099c\u09be\u09ae\u09c7\u09a8\u09be \u0996\u09be\u09a4\u09c1\u09a8",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338103010021",
+  "fields": {
+    "name_bangla": "\u09ae\u09cb: \u099b\u09bf\u09a6\u09cd\u09a6\u09bf\u0995 \u0986\u09b9\u09ae\u09a6",
+    "name": "Md Siddique Ahmed",
+    "nid": "9013381320631",
+    "dob": "1987-01-07",
+    "gender": "M",
+    "village": "069033810301",
+    "word": "0690338103",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": "3070",
+    "father_name": "\u09ae\u09cb: \u09b8\u09be\u09b9\u09be\u09ac \u0989\u09a6\u09cd\u09a6\u09bf\u09a8",
+    "mother_name": "\u09ae\u09cb\u099b\u09be: \u0986\u09ae\u09bf\u09b0\u09c1\u09a8 \u09a8\u09c7\u099b\u09be",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338103010022",
+  "fields": {
+    "name_bangla": "\u09ae\u09cb: \u09ae\u09be\u09ae\u09c1\u09a8 \u09ae\u09bf\u09df\u09be",
+    "name": "Md Mamun Mia",
+    "nid": "9013381321155",
+    "dob": "1976-02-02",
+    "gender": "M",
+    "village": "069033810301",
+    "word": "0690338103",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": "3070",
+    "father_name": "\u09ae\u09c3\u09a4 \u09a4\u09be\u09b9\u09bf\u09b0 \u0986\u09b2\u09c0",
+    "mother_name": "\u09ae\u09c3\u09a4 \u0986\u09b0\u09ab\u09be \u0996\u09be\u09a4\u09c1\u09a8",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338103010023",
+  "fields": {
+    "name_bangla": "\u09ae\u09cb\u099b\u09be: \u09ae\u0987\u09b0\u09c1\u09a8 \u09a8\u09c7\u099b\u09be",
+    "name": "Mst Moirun Nesa",
+    "nid": "9013381320693",
+    "dob": "1938-05-12",
+    "gender": "F",
+    "village": "069033810301",
+    "word": "0690338103",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": "3070",
+    "father_name": "\u09ae\u09c3\u09a4 \u09ae\u09ab\u09bf\u099c \u0986\u09b2\u09c0",
+    "mother_name": "\u09ae\u09c3\u09a4 \u099c\u09cb\u09ac\u09c7\u09a6\u09be \u09ac\u09c7\u0997\u09ae",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338103010025",
+  "fields": {
+    "name_bangla": "\u09ae\u09cb:  \u0986\u09b2\u09c0 \u0986\u09ae\u099c\u09a6",
+    "name": "Md Ali Amzod",
+    "nid": "9013381320949",
+    "dob": "1952-08-15",
+    "gender": "M",
+    "village": "069033810301",
+    "word": "0690338103",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": "3070",
+    "father_name": "\u09ae\u09cb: \u0986\u09ac\u09cd\u09a6\u09c1\u09b2 \u099c\u09ac\u09cd\u09ac\u09be\u09b0",
+    "mother_name": "\u09ae\u09c3\u09a4 \u09ae\u09c7\u099b\u09be: \u09a8\u09c1\u09b0\u09c1\u09a8 \u09a8\u09c7\u099b\u09be",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338103010026",
+  "fields": {
+    "name_bangla": "\u09ae\u09cb: \u099b\u09be\u09b2\u09c7 \u09b9\u0995",
+    "name": "Md sale Haque",
+    "nid": "9013381321438",
+    "dob": "1972-06-12",
+    "gender": "M",
+    "village": "069033810301",
+    "word": "0690338103",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": "3070",
+    "father_name": "\u09ae\u09c3\u09a4 \u09ae\u09c7\u09b9\u09c7\u09b0 \u0989\u09b2\u09cd\u09b2\u09be",
+    "mother_name": "\u09ae\u09c3\u09a4  \u09ae\u09cb\u099b\u09be: \u0997\u09cb\u09b2\u09ac\u09be\u09b9\u09be\u09b0",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338103010027",
+  "fields": {
+    "name_bangla": "\u09ae\u09cb: \u0986\u09ae\u09c1\u09a6 \u0986\u09b2\u09c0",
+    "name": "Md Amud Ali",
+    "nid": "9013381320783",
+    "dob": "1933-06-04",
+    "gender": "M",
+    "village": "069033810301",
+    "word": "0690338103",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": "3070",
+    "father_name": "\u09ae\u09c3\u09a4 \u099b\u09cb\u09b0\u09be\u09ac \u0986\u09b2\u09c0",
+    "mother_name": "\u09ae\u09c3\u09a4 \u099b\u0987\u09a6\u09c1\u09b0 \u09a8\u09c7\u099b\u09be",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338103010028",
+  "fields": {
+    "name_bangla": "\u09ae\u09cb: \u0986\u09ac\u09cd\u09a6\u09c1\u09b2 \u09ae\u09c1\u0995\u09bf\u09a6",
+    "name": "Md  Abdul Mukid",
+    "nid": "9013381321235",
+    "dob": "1988-11-03",
+    "gender": "M",
+    "village": "069033810301",
+    "word": "0690338103",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": "3070",
+    "father_name": "\u09ae\u09cb: \u0986\u09ac\u09cd\u09a6\u09c1\u09b2 \u09ae\u09a8\u09cd\u09a8\u09be\u09a8",
+    "mother_name": "\u09ae\u09cb\u099b\u09be: \u09b9\u09be\u0993\u09df\u09be\u09b0\u09c1\u09a8 \u09a8\u09c7\u099b\u09be",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338103010029",
+  "fields": {
+    "name_bangla": "\u09ae\u09cb: \u0986\u09ac\u09cd\u09a6\u09c1\u09b2 \u0986\u09ae\u09bf\u09a8",
+    "name": "Md Abdul Amin",
+    "nid": "90133813203/19",
+    "dob": "1960-03-05",
+    "gender": "M",
+    "village": "069033810301",
+    "word": "0690338103",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": "3070",
+    "father_name": "\u09ae\u09c3\u09a4 \u09a4\u09be\u099c\u09c1\u09a6 \u0986\u09b2\u09c0",
+    "mother_name": "\u09ae\u09c3\u09a4- \u099b\u09c8\u09df\u09a6\u09c1\u09a8 \u09a8\u09c7\u099b\u09be",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338103010030",
+  "fields": {
+    "name_bangla": "\u09ae\u09cb: \u0986\u09aa\u09cd\u09a4\u09b0 \u0986\u09b2\u09c0",
+    "name": "Md Aptor Ali",
+    "nid": "9013381321515",
+    "dob": "1976-04-10",
+    "gender": "M",
+    "village": "069033810301",
+    "word": "0690338103",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": "3070",
+    "father_name": "\u09ae\u09c3\u09a4 \u0986\u099c\u09bf\u099c\u09c1\u09b0 \u09b0\u09b9\u09ae\u09be\u09a8",
+    "mother_name": "\u09ae\u09c3\u09a4 \u0986\u099c\u09bf\u099c\u09c1\u09a8 \u09a8\u09c7\u099b\u09be",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338103010031",
+  "fields": {
+    "name_bangla": "\u09ae\u09cb: \u099c\u09be\u09b9\u09be\u0999\u09cd\u0997\u09c0\u09b0  \u0986\u09b2\u09ae",
+    "name": "Md Jahangir Alam",
+    "nid": "9013381320721",
+    "dob": "1970-05-16",
+    "gender": "M",
+    "village": "069033810301",
+    "word": "0690338103",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": "3070",
+    "father_name": "\u09ae\u09c3\u09a4 \u09a4\u09ab\u099c\u09cd\u099c\u09c1\u09b2 \u09b9\u0995",
+    "mother_name": "\u09ae\u09cb\u099b\u09be: \u0995\u09c1\u09b2\u099b\u09c1\u09ae\u09be \u09ac\u09c7\u0997\u09ae",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338103010032",
+  "fields": {
+    "name_bangla": "\u09aa\u09ac\u09b2\u09c1 \u09ae\u09bf\u09df\u09be",
+    "name": "Pblu mia",
+    "nid": "19999013381000065",
+    "dob": "1989-11-17",
+    "gender": "M",
+    "village": "069033810301",
+    "word": "0690338103",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": "3070",
+    "father_name": null,
+    "mother_name": "\u0997\u09cb\u09b2\u09be\u09ae \u09b0\u09ac\u09cd\u09ac\u09be\u09a8\u09c0",
+    "spouse_name": "\u09b6\u09be\u0995\u09bf\u09b2\u09be \u09ac\u09c7\u0997\u09ae"
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "069033810301024",
+  "fields": {
+    "name_bangla": "\u09ae\u09cb: \u0986\u09b2\u09c0 \u09ab\u09b0\u09bf\u09a6",
+    "name": "Md Ali Farid",
+    "nid": "9013381320614",
+    "dob": "1972-06-04",
+    "gender": "M",
+    "village": "069033810301",
+    "word": "0690338103",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": "3070",
+    "father_name": "\u09ae\u09c3\u09a4 \u09b8\u09cb\u09a8\u09be\u09ab\u09b0 \u0986\u09b2\u09c0",
+    "mother_name": "\u09ae\u09c3\u09a4 \u0997\u09cb\u09b2 \u09ad\u09be\u09a8\u09c1",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338104010001",
+  "fields": {
+    "name_bangla": "\u09aa\u09c7\u09df\u09be\u09b0\u09be \u09ac\u09c7\u0997\u09ae",
+    "name": "Peyara Begum",
+    "nid": "9013381322051",
+    "dob": "1979-05-12",
+    "gender": "F",
+    "village": "069033810401",
+    "word": "0690338104",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": null,
+    "father_name": null,
+    "mother_name": "\u09ae\u09c3\u09a4 \u099c\u09be\u09b9\u09c7\u09b0\u09be \u0996\u09be\u09a4\u09c1\u09a8",
+    "spouse_name": "\u099c\u09be\u0995\u09bf\u09b0 \u09b9\u09cb\u09b8\u09c7\u09a8"
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338104030001",
+  "fields": {
+    "name_bangla": "\u0996\u09a8\u09cd\u09a6\u0995\u09be\u09b0 \u09ae\u09cb\u0983 \u09ae\u09be\u09ae\u09c1\u09a8\u09c1\u09b0 \u09b0\u09b6\u09c0\u09a6",
+    "name": "Khondoker Md Mamunur Rashid",
+    "nid": "9013381321815",
+    "dob": "1980-09-10",
+    "gender": "M",
+    "village": "069033810403",
+    "word": "0690338104",
+    "union": "06903381",
+    "post_office": "\u09a6\u09cb\u09df\u09be\u09b0\u09be \u09ac\u09be\u099c\u09be\u09b0",
+    "post_code": "\u09e9\u09e6\u09ed\u09e6",
+    "father_name": "\u0996\u09a8\u09cd\u09a6\u0995\u09be\u09b0 \u09ae\u09cb\u0983 \u09ae\u09bf\u099c\u09be\u09a8\u09c1\u09b0 \u09b0\u09b9\u09ae\u09be\u09a8",
+    "mother_name": "\u09ae\u09cb\u099b\u09be\u0983 \u099c\u09be\u09b9\u09be\u09a8\u09be\u09b0\u09be \u09ac\u09c7\u0997\u09ae",
+    "spouse_name": "\u09b6\u09bf\u09b2\u09be"
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338107010001",
+  "fields": {
+    "name_bangla": "\u09ae\u09cb\u099b\u09be\u0983 \u0986\u09a8\u09cb\u09df\u09be\u09b0\u09be \u09ac\u09c7\u0997\u09ae",
+    "name": "Mst Anwara Begum",
+    "nid": "9013381325441",
+    "dob": "1962-05-02",
+    "gender": "F",
+    "village": "069033810701",
+    "word": "0690338107",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": null,
+    "father_name": null,
+    "mother_name": "\u09ae\u09c3\u09a4 \u0995\u09b0\u09ab\u09c1\u09b2 \u09a8\u09c7\u099b\u09be",
+    "spouse_name": "\u09ae\u09c3\u09a4 \u098f\u09a8\u09be\u09ae\u09c1\u09b2 \u09b9\u0995"
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338107010002",
+  "fields": {
+    "name_bangla": "\u09ae\u09cb\u099b\u09be\u0983 \u099c\u09b9\u09c1\u09b0\u09be \u0996\u09be\u09a4\u09c1\u09a8",
+    "name": "Mst Jahura Khatun",
+    "nid": "9013381325178",
+    "dob": "1983-03-10",
+    "gender": "F",
+    "village": "069033810701",
+    "word": "0690338107",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": null,
+    "father_name": null,
+    "mother_name": "\u099b\u09be\u09b2\u09c7\u09b9\u09be \u09ac\u09c7\u0997\u09ae",
+    "spouse_name": "\u09ae\u09cb\u09b9\u09be\u09ae\u09cd\u09ae\u09a6 \u09ae\u09c1\u09b0\u09cd\u09b6\u09bf\u09a6 \u09ae\u09bf\u09df\u09be"
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338107010003",
+  "fields": {
+    "name_bangla": "\u09ae\u09cb\u099b\u09be\u0983 \u099c\u09cb\u099b\u09a8\u09be \u09ac\u09c7\u0997\u09ae",
+    "name": "Mst Josna Begum",
+    "nid": "9013381325218",
+    "dob": "1971-06-12",
+    "gender": "F",
+    "village": "069033810701",
+    "word": "0690338107",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": null,
+    "father_name": null,
+    "mother_name": "\u09ae\u09c3\u09a4 \u099b\u0995\u09bf\u09a8\u09be \u09ac\u09c7\u0997\u09ae",
+    "spouse_name": "\u09ae\u09cb\u0983 \u09b8\u09cd\u09ac\u09aa\u09a8 \u09ae\u09bf\u09df\u09be"
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338107010004",
+  "fields": {
+    "name_bangla": "\u09ae\u0995\u09b8\u09c1\u09a6 \u0986\u09b2\u09c0",
+    "name": "Maksud Ali",
+    "nid": "9013381325172",
+    "dob": "1950-06-02",
+    "gender": "M",
+    "village": "069033810701",
+    "word": "0690338107",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": null,
+    "father_name": "\u09ae\u09cb\u0983 \u0986\u09ac\u09cd\u09a6\u09c1\u09b2 \u0997\u09ab\u09c1\u09b0",
+    "mother_name": "\u09ae\u09c3\u09a4 \u0986\u09df\u09a4\u09a8 \u09a8\u09c7\u099b\u09be",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338107010005",
+  "fields": {
+    "name_bangla": "\u09b8\u09be\u09ab\u09bf\u09df\u09be \u0996\u09be\u09a4\u09c1\u09a8",
+    "name": "Safia Khatun",
+    "nid": "9013381325535",
+    "dob": "1969-04-12",
+    "gender": "F",
+    "village": "069033810701",
+    "word": "0690338107",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": null,
+    "father_name": null,
+    "mother_name": "\u09b0\u099c\u09cd\u099c\u09ac\u09c1\u09a8 \u09a8\u09c7\u099b\u09be",
+    "spouse_name": "\u0986\u09b6\u09be\u09ac \u0989\u09a6\u09cd\u09a6\u09bf\u09a8"
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338107010006",
+  "fields": {
+    "name_bangla": "\u0986\u09ac\u09cd\u09a6\u09c1\u09b0 \u09b0\u09b9\u09ae\u09be\u09a8",
+    "name": "Abdur Rahman",
+    "nid": "1990901338131000078",
+    "dob": "1990-07-10",
+    "gender": "M",
+    "village": "069033810701",
+    "word": "0690338107",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": null,
+    "father_name": "\u0986\u09ac\u09cd\u09a6\u09c1\u09b2 \u09ae\u099c\u09bf\u09a6",
+    "mother_name": "\u09ae\u09c3\u09a4 \u0986\u09ac\u099c\u09be\u09a8 \u09ac\u09c7\u0997\u09ae",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338107010008",
+  "fields": {
+    "name_bangla": "\u0989\u09ae\u09b0\u09bf\u09a4 \u09ae\u09bf\u09df\u09be",
+    "name": "Umirit Mia",
+    "nid": "9013381325521",
+    "dob": "1962-04-16",
+    "gender": "M",
+    "village": "069033810701",
+    "word": "0690338107",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": null,
+    "father_name": "\u09ab\u09be\u09b2\u09c1 \u09ae\u09bf\u09df\u09be",
+    "mother_name": "\u09b9\u09be\u099a\u09c1\u09a8\u09c0 \u09ac\u09c7\u0997\u09ae",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338107010009",
+  "fields": {
+    "name_bangla": "\u09a4\u09be\u099b\u09b2\u09bf\u09ae\u09be \u09ac\u09c7\u0997\u09ae",
+    "name": "Taslima Begum",
+    "nid": "9013381325536",
+    "dob": "1981-03-17",
+    "gender": "F",
+    "village": "069033810701",
+    "word": "0690338107",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": null,
+    "father_name": null,
+    "mother_name": "\u0995\u09b0\u09ab\u09c1\u09b2 \u09a8\u09c7\u099b\u09be",
+    "spouse_name": "\u0995\u09aa\u09bf\u09b2 \u0989\u09a6\u09cd\u09a6\u09bf\u09a8"
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338107010010",
+  "fields": {
+    "name_bangla": "\u0986\u09ab\u099b\u09be\u09b0 \u0989\u09a6\u09cd\u09a6\u09bf\u09a8",
+    "name": "Afsar Uddin",
+    "nid": "9013381325244",
+    "dob": "1983-07-23",
+    "gender": "M",
+    "village": "069033810701",
+    "word": "0690338107",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": null,
+    "father_name": "\u09ae\u09ab\u09bf\u099c \u0989\u09a6\u09cd\u09a6\u09bf\u09a8",
+    "mother_name": "\u09b0\u09b6\u09bf\u09a6\u09be \u09ac\u09c7\u0997\u09ae",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338107010011",
+  "fields": {
+    "name_bangla": "\u0986\u09a8\u09cb\u09df\u09be\u09b0 \u09b9\u09cb\u09b8\u09c7\u09a8",
+    "name": "Anwar Hossain",
+    "nid": "9013381325764",
+    "dob": "1972-02-10",
+    "gender": "M",
+    "village": "069033810701",
+    "word": "0690338107",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": null,
+    "father_name": "\u09ae\u09c3\u09a4 \u0987\u0989\u09a8\u09c1\u099b \u0986\u09b2\u09c0",
+    "mother_name": "\u09ae\u09c3\u09a4 \u099c\u09b9\u09c1\u09b0\u09be \u0996\u09be\u09a4\u09c1\u09a8",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338107010012",
+  "fields": {
+    "name_bangla": "\u09b2\u09be\u09ad\u09b2\u09c0 \u0986\u0995\u09cd\u09a4\u09be\u09b0",
+    "name": "Lovely Akter",
+    "nid": "1990901338131000079",
+    "dob": "1990-01-01",
+    "gender": "F",
+    "village": "069033810701",
+    "word": "0690338107",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": null,
+    "father_name": null,
+    "mother_name": "\u0989\u09ae\u09cd\u09ae\u09c7\u09a4\u09be \u09ac\u09c7\u0997\u09ae",
+    "spouse_name": "\u0986\u09ac\u09cd\u09a6\u09c1\u09b0 \u09b0\u09b9\u09bf\u09ae"
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338107010013",
+  "fields": {
+    "name_bangla": "\u09ae\u09cb\u0983 \u09ae\u09ab\u09bf\u099c \u0989\u09a6\u09cd\u09a6\u09bf\u09a8",
+    "name": "Md Mafiz Uddin",
+    "nid": "90133813125191",
+    "dob": "1957-08-12",
+    "gender": "M",
+    "village": "069033810701",
+    "word": "0690338107",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": null,
+    "father_name": "\u09ae\u09c3\u09a4 \u0986\u09df\u09a8\u09c1\u09ac \u0986\u09b2\u09c0",
+    "mother_name": "\u09ae\u09c3\u09a4 \u09aa\u09b2\u09bf\u09ae\u09be \u0996\u09be\u09a4\u09c1\u09a8",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338107010014",
+  "fields": {
+    "name_bangla": "\u09ae\u09cb\u099b\u09be\u0983 \u09a8\u09be\u099b\u09bf\u09ae\u09be \u0996\u09be\u09a4\u09c1\u09a8",
+    "name": "Mst Nasima Khatun",
+    "nid": "9013381325047",
+    "dob": "1980-06-12",
+    "gender": "F",
+    "village": "069033810701",
+    "word": "0690338107",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": null,
+    "father_name": null,
+    "mother_name": "\u09ae\u09cb\u099b\u09be\u0983 \u099c\u09b2\u09c7\u0996\u09be \u0996\u09be\u09a4\u09c1\u09a8",
+    "spouse_name": "\u09ae\u09cb\u0983 \u09ab\u09c1\u09b2 \u09ae\u09bf\u09df\u09be"
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338107010015",
+  "fields": {
+    "name_bangla": "\u09b9\u09be\u09b2\u09bf\u09ae\u09be \u0986\u0995\u09cd\u09a4\u09be\u09b0",
+    "name": "Halima Akter",
+    "nid": "9013381325527",
+    "dob": "1982-04-14",
+    "gender": "F",
+    "village": "069033810701",
+    "word": "0690338107",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": null,
+    "father_name": null,
+    "mother_name": "\u09b8\u09c1\u09ab\u09bf\u09df\u09be \u0996\u09be\u09a4\u09c1\u09a8",
+    "spouse_name": "\u0986\u09ac\u09c1 \u09ac\u0995\u09cd\u0995\u09b0 \u09b8\u09bf\u09a6\u09cd\u09a6\u09bf\u0995"
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338107010016",
+  "fields": {
+    "name_bangla": "\u09ae\u09cb\u0983 \u09a8\u09be\u099c\u09bf\u09ae \u0989\u09a6\u09cd\u09a6\u09bf\u09a8",
+    "name": "Md Nazim Uddin",
+    "nid": "9013381325363",
+    "dob": "1957-05-03",
+    "gender": "M",
+    "village": "069033810701",
+    "word": "0690338107",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": null,
+    "father_name": "\u09ae\u09c3\u09a4 \u09b2\u09be\u09b2 \u09ae\u09bf\u09df\u09be",
+    "mother_name": "\u099c\u09ae\u09bf\u09b2\u09be \u0996\u09be\u09a4\u09c1\u09a8",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338107010017",
+  "fields": {
+    "name_bangla": "\u09a8\u09c1\u09b0 \u0986\u09b2\u09ae",
+    "name": "Noor Alam",
+    "nid": "9013381325331",
+    "dob": "1954-02-12",
+    "gender": "M",
+    "village": "069033810701",
+    "word": "0690338107",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": null,
+    "father_name": "\u09ae\u09c3\u09a4 \u09b6\u09be\u09b9\u09be\u09a6\u09be\u09a4 \u0989\u09b2\u09cd\u09b2\u09be",
+    "mother_name": "\u09ae\u09c3\u09a4 \u099c\u09be\u0995\u09bf\u09df\u09be \u0996\u09be\u09a4\u09c1\u09a8",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338107010018",
+  "fields": {
+    "name_bangla": "\u09ae\u09cb\u099b\u09be\u0983 \u09b0\u09c1\u09aa\u09bf\u09b2\u09be \u09ac\u09c7\u0997\u09ae",
+    "name": "Mst Rupila Begum",
+    "nid": "9013381325336",
+    "dob": "1959-07-06",
+    "gender": "F",
+    "village": "069033810701",
+    "word": "0690338107",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": null,
+    "father_name": null,
+    "mother_name": "\u0997\u09cb\u09b2\u09be\u09aa\u09c0",
+    "spouse_name": "\u09ae\u09cb\u0983 \u0986\u09b2\u0995\u09be\u099b \u09ae\u09bf\u09df\u09be"
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338107010019",
+  "fields": {
+    "name_bangla": "\u09ae\u09cb\u099b\u09be\u0983 \u09ab\u09c1\u09b2\u09c7\u099b\u09be \u09ac\u09c7\u0997\u09ae",
+    "name": "Mst Fulesa Begum",
+    "nid": "9013381325091",
+    "dob": "1983-03-02",
+    "gender": "F",
+    "village": "069033810701",
+    "word": "0690338107",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": null,
+    "father_name": null,
+    "mother_name": "\u09ae\u09cb\u099b\u09be\u0983 \u099c\u09ae\u09bf\u09b2\u09be \u0996\u09be\u09a4\u09c1\u09a8",
+    "spouse_name": "\u09ae\u09cb\u0983 \u0995\u09be\u099c\u09b2 \u09ae\u09bf\u09df\u09be"
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338107010020",
+  "fields": {
+    "name_bangla": "\u09b8\u09be\u09ac\u09bf\u09a8\u09be \u0987\u09df\u09be\u099b\u09ae\u09bf\u09a8",
+    "name": "Sabina Yasmin",
+    "nid": "9013381325184",
+    "dob": "1987-01-06",
+    "gender": "F",
+    "village": "069033810701",
+    "word": "0690338107",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": null,
+    "father_name": null,
+    "mother_name": "\u09b0\u09b6\u09bf\u09a6\u09be \u0996\u09be\u09a4\u09c1\u09a8",
+    "spouse_name": "\u09ae\u09cb\u0983 \u0989\u0995\u09bf\u09b2 \u09ae\u09bf\u09df\u09be"
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338107010021",
+  "fields": {
+    "name_bangla": "\u09ae\u09cb\u099b\u09be\u0983 \u09b9\u09be\u09b2\u09bf\u09ae\u09be \u0996\u09be\u09a4\u09c1\u09a8",
+    "name": "Mst Halima Khatun",
+    "nid": "19939013381000051",
+    "dob": "1993-04-18",
+    "gender": "F",
+    "village": "069033810701",
+    "word": "0690338107",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": null,
+    "father_name": "\u09ae\u09cb\u0983 \u09a8\u09be\u09a8\u09c1 \u09ae\u09bf\u09df\u09be",
+    "mother_name": "\u09ae\u09cb\u099b\u09be\u0983 \u09ab\u09b0\u09bf\u09a6\u09be \u0996\u09be\u09a4\u09c1\u09a8",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338107010022",
+  "fields": {
+    "name_bangla": "\u0986\u09ac\u09cd\u09a6\u09c1\u09b2 \u099b\u09be\u09b2\u09be\u09ae",
+    "name": "Abdul salam",
+    "nid": "19889013381000022",
+    "dob": "1988-01-01",
+    "gender": "M",
+    "village": "069033810701",
+    "word": "0690338107",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": null,
+    "father_name": "\u09ae\u09cb\u0983 \u09ae\u09bf\u0995\u09be\u0987\u09b2 \u09ae\u09bf\u09df\u09be",
+    "mother_name": "\u09ae\u09cb\u099b\u09be\u0983 \u09ab\u09df\u099c\u09c1\u09a8 \u09a8\u09c7\u099b\u09be",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338107010023",
+  "fields": {
+    "name_bangla": "\u09ae\u09cb\u099b\u09be\u0983 \u0986\u09aa\u09c7\u09b2 \u09ac\u09be\u09a8\u09c1",
+    "name": "Mst Apel Banu",
+    "nid": "9013381324996",
+    "dob": "1935-04-03",
+    "gender": "F",
+    "village": "069033810701",
+    "word": "0690338107",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": null,
+    "father_name": null,
+    "mother_name": "\u09ae\u09c3\u09a4 \u09b0\u09be\u09b6\u09bf\u09a6\u09be \u0996\u09be\u09a4\u09c1\u09a8",
+    "spouse_name": "\u09ae\u09c3\u09a4 \u09ae\u09ab\u09bf\u099c \u0989\u09a6\u09cd\u09a6\u09bf\u09a8"
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338107010024",
+  "fields": {
+    "name_bangla": "\u09ae\u09cb\u099b\u09be\u0983 \u09b8\u09c1\u09ab\u09bf\u09df\u09be \u0996\u09be\u09a4\u09c1\u09a8",
+    "name": "Mst Sufiya Khatun",
+    "nid": "9013381325522",
+    "dob": "1962-03-12",
+    "gender": "F",
+    "village": "069033810701",
+    "word": "0690338107",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": null,
+    "father_name": null,
+    "mother_name": "\u09ae\u09c3\u09a4 \u0997\u09cb\u09b2 \u09a8\u09be\u09b9\u09be\u09b0",
+    "spouse_name": "\u09ab\u099c\u09b2\u09c1 \u09ae\u09bf\u09df\u09be"
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338107010025",
+  "fields": {
+    "name_bangla": "\u09ae\u09cb\u099b\u0983 \u099c\u09be\u09ae\u09bf\u09b2\u09be \u0996\u09be\u09a4\u09c1\u09a8",
+    "name": "Mst Jamila Khatun",
+    "nid": "9013381325177",
+    "dob": "1958-04-10",
+    "gender": "F",
+    "village": "069033810701",
+    "word": "0690338107",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": null,
+    "father_name": null,
+    "mother_name": "\u09ae\u09c3\u09a4 \u0995\u09b0\u09ac\u09c1\u09a8 \u09a8\u09c7\u099b\u09be",
+    "spouse_name": "\u09ae\u09cb\u0983 \u0986\u09b2\u09be\u09b2 \u0989\u09a6\u09cd\u09a6\u09bf\u09a8"
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338107010026",
+  "fields": {
+    "name_bangla": "\u09ae\u09cb\u099b\u09be\u0983 \u099c\u09cd\u09af\u09cb\u09b8\u09a8\u09be \u09ac\u09c7\u0997\u09ae",
+    "name": "Mst Jusna Begum",
+    "nid": "19909013381000173",
+    "dob": "1990-02-18",
+    "gender": "F",
+    "village": "069033810701",
+    "word": "0690338107",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": null,
+    "father_name": null,
+    "mother_name": "\u099c\u09ae\u09bf\u09b2\u09be \u0996\u09be\u09a4\u09c1\u09a8",
+    "spouse_name": "\u09ae\u09cb\u0983 \u0986\u09b2\u09ae\u0997\u09c0\u09b0 \u09ae\u09bf\u09df\u09be"
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338107010027",
+  "fields": {
+    "name_bangla": "\u0986\u09df\u09c7\u09b6\u09be \u09ac\u09c7\u0997\u09ae",
+    "name": "Ayesha Begum",
+    "nid": "9013381325497",
+    "dob": "1962-03-15",
+    "gender": "F",
+    "village": "069033810701",
+    "word": "0690338107",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": null,
+    "father_name": null,
+    "mother_name": "\u09ae\u09c3\u09a4 \u09aa\u09a8\u09cd\u09a1\u09bf\u09a4 \u09ac\u09c7\u0997\u09ae",
+    "spouse_name": "\u09b0\u09c1\u09b8\u09cd\u09a4\u09ae \u0986\u09b2\u09c0"
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338107020001",
+  "fields": {
+    "name_bangla": "\u09b6\u09be\u09b9\u09c7\u09b0\u09be \u09ac\u09c7\u0997\u09ae",
+    "name": "Shahera Begum",
+    "nid": "9013381325695",
+    "dob": "1970-04-04",
+    "gender": "F",
+    "village": "069033810702",
+    "word": "0690338107",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": null,
+    "father_name": null,
+    "mother_name": "\u099b\u09be\u09b2\u09c7\u09b9\u09be \u09ac\u09c7\u0997\u09ae",
+    "spouse_name": "\u09ae\u09cb\u0983 \u09ac\u09be\u09a6\u09b6\u09be \u09ae\u09bf\u09df\u09be"
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338107020002",
+  "fields": {
+    "name_bangla": "\u099b\u09be\u09b2\u09c7\u09b9\u09be \u09ac\u09c7\u0997\u09ae",
+    "name": "Saleha Begum",
+    "nid": "9013381325694",
+    "dob": "1933-02-20",
+    "gender": "F",
+    "village": "069033810702",
+    "word": "0690338107",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": null,
+    "father_name": null,
+    "mother_name": "\u09ae\u09c3\u09a4 \u09a6\u09c1\u09a6 \u09ae\u09c7\u09b9\u09c7\u09b0",
+    "spouse_name": "\u09ae\u09c3\u09a4 \u09b0\u0987\u099b \u0986\u09b2\u09c0"
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338107020003",
+  "fields": {
+    "name_bangla": "\u09ae\u09cb\u0983 \u09ae\u09bf\u0995\u09be\u0987\u09b2 \u09ae\u09bf\u09df\u09be",
+    "name": "Md Mikail Miah",
+    "nid": "9013381325622",
+    "dob": "1952-04-10",
+    "gender": "M",
+    "village": "069033810702",
+    "word": "0690338107",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": null,
+    "father_name": "\u09ae\u09cb\u0983 \u0987\u09ac\u09cd\u09b0\u09be\u09b9\u09bf\u09ae \u0986\u09b2\u09c0",
+    "mother_name": "\u09ae\u09cb\u099b\u09be\u0983 \u09b6\u09be\u09ae\u09be \u09ac\u09bf\u09ac\u09bf",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338107020004",
+  "fields": {
+    "name_bangla": "\u09b0\u09c1\u09ac\u09c7\u09b2 \u09ae\u09bf\u09df\u09be",
+    "name": "Robel Mia",
+    "nid": "9013381325889",
+    "dob": "1989-05-12",
+    "gender": "M",
+    "village": "069033810702",
+    "word": "0690338107",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": null,
+    "father_name": "\u0986\u09ac\u09cd\u09a6\u09c1\u09b2 \u0995\u09b0\u09bf\u09ae",
+    "mother_name": "\u0986\u09b2\u09c7\u09df\u09be \u09ac\u09c7\u0997\u09ae",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338107020005",
+  "fields": {
+    "name_bangla": "\u09b9\u09be\u09b0\u09c1 \u09ae\u09bf\u09df\u09be",
+    "name": "Haru Mia",
+    "nid": "9013381325685",
+    "dob": "1970-10-21",
+    "gender": "M",
+    "village": "069033810702",
+    "word": "0690338107",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": null,
+    "father_name": "\u09ae\u09c3\u09a4 \u0986\u09ae\u09bf\u09b0 \u09b9\u09be\u09ae\u099c\u09be",
+    "mother_name": "\u09ae\u09cb\u099b\u09be\u0983 \u0986\u09ac\u09c1\u09a8\u09bf \u09ac\u09c7\u0997\u09ae",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338107020006",
+  "fields": {
+    "name_bangla": "\u099c\u09ae\u09bf\u09b2\u09be \u0996\u09be\u09a4\u09c1\u09a8",
+    "name": "Jomila Khatun",
+    "nid": "9013381325690",
+    "dob": "1945-05-19",
+    "gender": "F",
+    "village": "069033810702",
+    "word": "0690338107",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": null,
+    "father_name": null,
+    "mother_name": "\u09b8\u09cd\u09ac\u09be\u0995\u09cd\u09b7\u09b0 \u09ac\u09be\u09a8\u09c1",
+    "spouse_name": "\u09ae\u09c3\u09a4 \u0996\u09cb\u09b0\u09b6\u09c7\u09a6 \u0986\u09b2\u09c0"
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338107020007",
+  "fields": {
+    "name_bangla": "\u09b0\u09c1\u09b6\u09a8 \u0986\u09b2\u09c0",
+    "name": "Rushan Ali",
+    "nid": "9013381325688",
+    "dob": "1970-04-10",
+    "gender": "M",
+    "village": "069033810702",
+    "word": "0690338107",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": null,
+    "father_name": "\u09ae\u09c3\u09a4 \u0996\u09cb\u09b0\u09b6\u09c7\u09a6 \u0986\u09b2\u09c0",
+    "mother_name": "\u099c\u09ae\u09bf\u09b2\u09be \u0996\u09be\u09a4\u09c1\u09a8",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338107020008",
+  "fields": {
+    "name_bangla": "\u09a4\u09be\u099c\u09c1\u09b2 \u0987\u09b8\u09b2\u09be\u09ae",
+    "name": "Tajul Islam",
+    "nid": "9013381325741",
+    "dob": "1952-10-04",
+    "gender": "M",
+    "village": "069033810702",
+    "word": "0690338107",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": null,
+    "father_name": "\u09ae\u09c3\u09a4 \u0986\u09ac\u09cd\u09a6\u09c1\u09b0 \u09b0\u09b9\u09ae\u09be\u09a8",
+    "mother_name": "\u09ae\u09c3\u09a4 \u09b0\u0982\u09ae\u09be\u09b2\u09be \u09ac\u09c7\u0997\u09ae",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338107020009",
+  "fields": {
+    "name_bangla": "\u0996\u09c7\u09b2\u09c1 \u09ae\u09bf\u09df\u09be",
+    "name": "Khelu Mia",
+    "nid": "9013381325728",
+    "dob": "1945-03-15",
+    "gender": "M",
+    "village": "069033810702",
+    "word": "0690338107",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": null,
+    "father_name": "\u09ae\u09c3\u09a4 \u09b9\u09be\u099b\u09a8 \u0986\u09b2\u09c0",
+    "mother_name": "\u09b8\u09cd\u09ac\u09be\u0995\u09cd\u09b7\u09b0 \u09ac\u09be\u09a8\u09c1",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338107020010",
+  "fields": {
+    "name_bangla": "\u09b9\u09be\u09ae\u09bf\u09a6\u09be \u0996\u09be\u09a4\u09c1\u09a8",
+    "name": "Hamida Khatun",
+    "nid": "9013381325727",
+    "dob": "1953-03-10",
+    "gender": "F",
+    "village": "069033810702",
+    "word": "0690338107",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": null,
+    "father_name": null,
+    "mother_name": "\u09ae\u09c3\u09a4 \u0986\u09df\u09ae\u09a8\u09be \u09ac\u09bf\u09ac\u09bf",
+    "spouse_name": "\u0996\u09c7\u09b2\u09c1 \u09ae\u09bf\u09df\u09be"
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338107020011",
+  "fields": {
+    "name_bangla": "\u0986\u09ac\u09cd\u09a6\u09c1\u09b2 \u0986\u09b2\u09c0",
+    "name": "Abdul Ali",
+    "nid": "9013381325660",
+    "dob": "1968-11-02",
+    "gender": "M",
+    "village": "069033810702",
+    "word": "0690338107",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": null,
+    "father_name": "\u09ae\u09c3\u09a4 \u0986\u09ac\u09cd\u09a6\u09c1\u09b2 \u09b9\u09be\u09b6\u09bf\u09ae",
+    "mother_name": "\u09ae\u09c3\u09a4 \u0986\u09df\u09ae\u09a8\u09be \u09ac\u09bf\u09ac\u09bf",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338107020012",
+  "fields": {
+    "name_bangla": "\u09ae\u09cb\u0983 \u09b6\u09be\u09ae\u09b8\u09c1 \u09ae\u09bf\u09df\u09be",
+    "name": "Md Shamsu Mia",
+    "nid": "9013381325678",
+    "dob": "1974-03-10",
+    "gender": "M",
+    "village": "069033810702",
+    "word": "0690338107",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": null,
+    "father_name": "\u09ae\u09c3\u09a4 \u09b8\u09c1\u09a8\u09c1 \u09ae\u09bf\u09df\u09be",
+    "mother_name": "\u09ae\u09cb\u099b\u09be\u0983 \u09b2\u09be\u09b2 \u09ac\u09be\u09a8\u09c1",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338107020013",
+  "fields": {
+    "name_bangla": "\u09ae\u09bf\u09b2\u09a8 \u0986\u0995\u09cd\u09a4\u09be\u09b0",
+    "name": "Milon Akter",
+    "nid": "9013381325647",
+    "dob": "1982-08-15",
+    "gender": "F",
+    "village": "069033810702",
+    "word": "0690338107",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": null,
+    "father_name": null,
+    "mother_name": "\u09b8\u09c1\u09ac\u09c7\u09a6\u09be \u0986\u0995\u09cd\u09a4\u09be\u09b0",
+    "spouse_name": "\u09ae\u0987\u09a8 \u0989\u09a6\u09cd\u09a6\u09bf\u09a8"
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338107020014",
+  "fields": {
+    "name_bangla": "\u0986\u09ae\u09be\u09a8\u09c7 \u0996\u09be\u09a4\u09c1\u09a8",
+    "name": "Amena Khatun",
+    "nid": "9013381325646",
+    "dob": "1967-10-15",
+    "gender": "F",
+    "village": "069033810702",
+    "word": "0690338107",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": null,
+    "father_name": null,
+    "mother_name": "\u09ae\u09c3\u09a4 \u09a6\u09c1\u09b2\u09ac\u09c0 \u09a8\u09c7\u099b\u09be",
+    "spouse_name": "\u0986\u09ab\u09be\u099c \u0989\u09a6\u09cd\u09a6\u09bf\u09a8"
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338107020015",
+  "fields": {
+    "name_bangla": "\u0986\u09df\u09c7\u09b6\u09be \u0996\u09be\u09a4\u09c1\u09a8",
+    "name": "Ayesha Khatun",
+    "nid": "9013381325663",
+    "dob": "1963-01-15",
+    "gender": "F",
+    "village": "069033810702",
+    "word": "0690338107",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": null,
+    "father_name": null,
+    "mother_name": "\u09ae\u09c3\u09a4 \u0997\u09cb\u09b2\u099c\u09be\u09b9\u09be\u09a8",
+    "spouse_name": "\u09ae\u09c3\u09a4 \u0986\u09ac\u09cd\u09a6\u09c1\u09b2 \u0995\u09b0\u09bf\u09ae"
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338107020016",
+  "fields": {
+    "name_bangla": "\u09b9\u09be\u09b2\u09bf\u09ae\u09be \u09ac\u09c7\u0997\u09ae",
+    "name": "Halima Begum",
+    "nid": "9013381325649",
+    "dob": "1942-10-19",
+    "gender": "F",
+    "village": "069033810702",
+    "word": "0690338107",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": null,
+    "father_name": null,
+    "mother_name": "\u09ae\u09c3\u09a4 \u09a8\u099b\u09bf\u09b0\u09be \u0996\u09be\u09a4\u09c1\u09a8",
+    "spouse_name": "\u09ae\u09c3\u09a4 \u0986\u09ac\u09cd\u09a6\u09c1\u09b2 \u09b0\u09b9\u09bf\u09ae"
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338107020017",
+  "fields": {
+    "name_bangla": "\u09b6\u09be\u09b9\u09be\u09a8\u09be\u099c \u09ac\u09c7\u0997\u09ae",
+    "name": "Shahanaj Begum",
+    "nid": "9013381325664",
+    "dob": "1988-03-01",
+    "gender": "F",
+    "village": "069033810702",
+    "word": "0690338107",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": null,
+    "father_name": null,
+    "mother_name": "\u099c\u09ae\u09bf\u09b2\u09be \u0996\u09be\u09a4\u09c1\u09a8",
+    "spouse_name": "\u09ae\u09cb\u0983 \u099b\u09be\u09a6\u09c7\u0995 \u09ae\u09bf\u09df\u09be"
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338107020018",
+  "fields": {
+    "name_bangla": "\u09b0\u09bf\u09a8\u09be \u09ac\u09c7\u0997\u09ae",
+    "name": "Rina Begum",
+    "nid": "9013381325745",
+    "dob": "1979-04-10",
+    "gender": "F",
+    "village": "069033810702",
+    "word": "0690338107",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": null,
+    "father_name": null,
+    "mother_name": "\u09b6\u09b0\u09c0\u09ab\u09be \u0996\u09be\u09a4\u09c1\u09a8",
+    "spouse_name": "\u09ae\u09cb\u0983 \u09ab\u09be\u09b0\u09c1\u0995 \u09ae\u09bf\u09df\u09be"
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338107020019",
+  "fields": {
+    "name_bangla": "\u09ae\u09be\u09a8\u09bf\u0995 \u09ae\u09bf\u09df\u09be",
+    "name": "Manik Mia",
+    "nid": "9013381325872",
+    "dob": "1989-04-20",
+    "gender": "M",
+    "village": "069033810702",
+    "word": "0690338107",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": null,
+    "father_name": "\u0986\u09ac\u09cd\u09a6\u09c1\u09b2 \u0995\u09b0\u09bf\u09ae",
+    "mother_name": "\u0996\u09c1\u0995\u09bf \u09ac\u09c7\u0997\u09ae",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338107020020",
+  "fields": {
+    "name_bangla": "\u09b0\u09c1\u09b6\u09a8\u09be \u09ac\u09c7\u0997\u09ae",
+    "name": "Rusna Begum",
+    "nid": "9013381325697",
+    "dob": "1985-03-07",
+    "gender": "F",
+    "village": "069033810702",
+    "word": "0690338107",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": null,
+    "father_name": null,
+    "mother_name": "\u0986\u099c\u09bf\u099c\u09c1\u09a8 \u09a8\u09c7\u099b\u09be",
+    "spouse_name": "\u099c\u09be\u09b9\u09be\u0999\u09cd\u0997\u09c0\u09b0 \u09ae\u09bf\u09df\u09be"
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338107020021",
+  "fields": {
+    "name_bangla": "\u09b9\u09be\u09ac\u09bf\u099c\u09be \u0996\u09be\u09a4\u09c1\u09a8",
+    "name": "Habija Begum",
+    "nid": "9013381325654",
+    "dob": "1980-02-05",
+    "gender": "F",
+    "village": "069033810702",
+    "word": "0690338107",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": null,
+    "father_name": null,
+    "mother_name": "\u09b8\u09ac\u099c\u09be\u09ac\u09c1\u09b2",
+    "spouse_name": "\u09ae\u09be\u09b9\u09a4\u09be\u09ac \u0989\u09a6\u09cd\u09a6\u09bf\u09a8"
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338107020022",
+  "fields": {
+    "name_bangla": "\u0986\u09b0\u099c \u0986\u09b2\u09c0",
+    "name": "Araj Ali",
+    "nid": "9013381325680",
+    "dob": "1937-05-15",
+    "gender": "M",
+    "village": "069033810702",
+    "word": "0690338107",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": null,
+    "father_name": "\u09ae\u09c3\u09a4 \u09b8\u09c1\u09b0\u09c1\u099c \u0986\u09b2\u09c0",
+    "mother_name": "\u09ae\u09c3\u09a4 \u09ab\u09c1\u09b2\u09c7\u099b\u09be \u09ac\u09bf\u09ac\u09bf",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338107020023",
+  "fields": {
+    "name_bangla": "\u09b6\u09c7\u09b2\u09c0\u09a8\u09be \u09ac\u09c7\u0997\u09ae",
+    "name": "Shalina Begum",
+    "nid": "9013381325681",
+    "dob": "1983-04-11",
+    "gender": "F",
+    "village": "069033810702",
+    "word": "0690338107",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": null,
+    "father_name": null,
+    "mother_name": "\u09b2\u09a4\u09bf\u09ab\u09be \u09ac\u09c7\u0997\u09ae",
+    "spouse_name": "\u09b6\u09c1\u0995\u09cd\u0995\u09c1\u09b0 \u0986\u09b2\u09c0"
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338108010001",
+  "fields": {
+    "name_bangla": "\u09ae\u09cb\u0983 \u09ae\u0995\u09ac\u09c1\u09b2 \u0986\u09b2\u09c0",
+    "name": "Md Mokbul",
+    "nid": "9013381326991",
+    "dob": "1984-03-12",
+    "gender": "M",
+    "village": "069033810801",
+    "word": "0690338108",
+    "union": "06903381",
+    "post_office": "Dowara Bazer",
+    "post_code": "3070",
+    "father_name": "\u09ae\u09c3\u09a4 \u0986\u0995\u09ac\u09b0 \u0986\u09b2\u09c0",
+    "mother_name": "\u099c\u09c1\u09ac\u09c7\u09a6\u09be \u0996\u09be\u09a4\u09c1\u09a8",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338108010002",
+  "fields": {
+    "name_bangla": "\u09ae\u09cb\u0983 \u09b8\u09c1\u09b0\u09c1\u099c \u0986\u09b2\u09c0",
+    "name": "Md Suroj ali",
+    "nid": "9013381326891",
+    "dob": "1962-09-12",
+    "gender": "M",
+    "village": "069033810801",
+    "word": "0690338108",
+    "union": "06903381",
+    "post_office": "Dowara Bazer",
+    "post_code": "3070",
+    "father_name": "\u09ae\u09c3\u09a4 \u09b8\u09cb\u09a8\u09be \u09ae\u09bf\u09df\u09be",
+    "mother_name": "\u09ae\u09c3\u09a4 \u09ae\u09be\u09b2\u09bf\u0995\u09be \u09ac\u09bf\u09ac\u09bf",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338108010003",
+  "fields": {
+    "name_bangla": "\u09ae\u09cb\u099b\u09be\u0983 \u09a6\u09bf\u09b2\u09be\u09b0\u09be \u0986\u09a4\u09cd\u09a4\u09be\u09b0",
+    "name": "Mst Dilara Begum",
+    "nid": "9013381326024",
+    "dob": "1988-03-01",
+    "gender": "F",
+    "village": "069033810801",
+    "word": "0690338108",
+    "union": "06903381",
+    "post_office": "Dowara Bazer",
+    "post_code": "3070",
+    "father_name": null,
+    "mother_name": "\u09ab\u09bf\u09b0\u09c1\u099c\u09be \u0996\u09be\u09a4\u09c1\u09a8",
+    "spouse_name": "\u09ae\u09cb\u0983 \u09ae\u09b8\u09cd\u09a4\u09be\u0995 \u0986\u09b2\u09c0"
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338108010004",
+  "fields": {
+    "name_bangla": "\u09ae\u09cb\u099b\u09be\u0983 \u09b0\u0982\u09ab\u09c1\u09b2 \u09ac\u09c7\u0997\u09ae",
+    "name": "Mst Rongful Begum",
+    "nid": "9112010527106",
+    "dob": "1970-10-06",
+    "gender": "F",
+    "village": "069033810801",
+    "word": "0690338108",
+    "union": "06903381",
+    "post_office": "\u09b0\u09be\u09ae\u09a6\u09be\u09a8\u09be \u09ac\u09be\u099c\u09be\u09b0",
+    "post_code": "\u09e9\u09e7\u09e9\u09e6",
+    "father_name": null,
+    "mother_name": "\u09b8\u09ae\u09b2\u09be \u09ac\u09bf\u09ac\u09bf",
+    "spouse_name": "\u09ae\u09cb\u0983 \u0986\u09ac\u09cd\u09a6\u09c1\u09b2 \u0995\u09be\u09b2\u09be\u09ae"
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338108010005",
+  "fields": {
+    "name_bangla": "\u09ae\u09cb\u0983 \u09ae\u09a8\u09bf\u09b0 \u09b9\u09cb\u09b8\u09c7\u09a8",
+    "name": "Md Monir Hossain",
+    "nid": "9013381327035",
+    "dob": "1980-02-01",
+    "gender": null,
+    "village": "069033810801",
+    "word": "0690338108",
+    "union": "06903381",
+    "post_office": "\u0986\u099b\u09bf\u09b0\u09a8\u0997\u09b0",
+    "post_code": "\u09e9\u09e6\u09ed\u09e6",
+    "father_name": "\u0986\u09ac\u09cd\u09a6\u09c1\u09b2 \u0986\u099c\u09bf\u099c",
+    "mother_name": "\u09b8\u09c1\u09ab\u09bf\u09df\u09be \u0996\u09be\u09a4\u09c1\u09a8",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338108010006",
+  "fields": {
+    "name_bangla": "\u09ae\u09cb\u0983 \u0986\u09b0\u09ac \u0986\u09b2\u09c0",
+    "name": "Md Arob ali",
+    "nid": "9013381326642",
+    "dob": "1962-06-09",
+    "gender": "M",
+    "village": "069033810801",
+    "word": "0690338108",
+    "union": "06903381",
+    "post_office": "\u0986\u099b\u09bf\u09b0\u09a8\u0997\u09b0",
+    "post_code": "\u09e9\u09e6\u09ed\u09e6",
+    "father_name": "\u09ae\u09c3\u09a4 \u09ae\u09be\u09b9\u09ae\u09a6 \u0986\u09b2\u09c0",
+    "mother_name": "\u09ae\u09c3\u09a4 \u0986\u09a4\u09b0 \u099c\u09be\u09a8 \u09ac\u09bf\u09ac\u09bf",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338108010007",
+  "fields": {
+    "name_bangla": "\u0995\u09bf\u09b0\u09a3 \u099a\u09a8\u09cd\u09a6\u09cd\u09b0 \u09a6\u09be\u09b6 \u09a4\u09be\u09b2\u09c1\u0995\u09a6\u09be\u09b0",
+    "name": "Kiron Chandra Dash Talukder",
+    "nid": "9013381326524",
+    "dob": "1970-05-20",
+    "gender": "M",
+    "village": "069033810801",
+    "word": "0690338108",
+    "union": "06903381",
+    "post_office": "\u0986\u099b\u09bf\u09b0\u09a8\u0997\u09b0",
+    "post_code": "\u09e9\u09e6\u09ed\u09e6",
+    "father_name": "\u0995\u09c3\u09aa\u09c7\u09b6 \u09b0\u099e\u09cd\u099c\u09a8 \u09a6\u09be\u09b6 \u09a4\u09be\u09b2\u09c1\u0995\u09a6\u09be\u09b0",
+    "mother_name": "\u09aa\u09cd\u09b0\u09ad\u09be\u09b8\u09bf\u09a8\u09c0 \u09b0\u09be\u09a8\u09c0 \u09a6\u09be\u09b6 \u09a4\u09be\u09b2\u09c1\u0995\u09a6\u09be\u09b0",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338108010009",
+  "fields": {
+    "name_bangla": "\u09ae\u09cb\u0983 \u09b6\u09be\u09a8\u09c1\u09b0 \u0986\u09b2\u09c0",
+    "name": "Md Shanur ali",
+    "nid": "9116240444744",
+    "dob": "1972-05-10",
+    "gender": "M",
+    "village": "069033810801",
+    "word": "0690338108",
+    "union": "06903381",
+    "post_office": "\u09b2\u09be\u0996\u09be\u0989\u09b0\u09be",
+    "post_code": "\u09e9\u09e7\u09e6\u09e6",
+    "father_name": "\u09ae\u09cb\u0983 \u0986\u09b2\u09a4\u09be\u09ab \u0986\u09b2\u09c0",
+    "mother_name": "\u09ae\u09cb\u099b\u09be \u0983 \u09ae\u099b\u09a4\u09c1\u09b0\u09be \u09ac\u09c7\u0997\u09ae",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338109030001",
+  "fields": {
+    "name_bangla": "\u0986\u0995\u09ac\u09b0 \u0986\u09b2\u09c0",
+    "name": "Akbar Ali",
+    "nid": "9013381327764",
+    "dob": "1979-11-10",
+    "gender": "M",
+    "village": "069033810903",
+    "word": "0690338109",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": null,
+    "father_name": "\u09ae\u09c3\u09a4 \u09ae\u09ab\u09bf\u099c \u0986\u09b2\u09c0",
+    "mother_name": "\u0995\u09ae\u09b2\u09be",
+    "spouse_name": null
+  }
+},
+{
+  "model": "citizen.citizen",
+  "pk": "0690338109030002",
+  "fields": {
+    "name_bangla": "\u09ab\u09b0\u09bf\u09a6 \u0986\u09b9\u09ae\u09a6",
+    "name": "Forid Ahmed",
+    "nid": "9013381324272",
+    "dob": "1985-01-24",
+    "gender": "M",
+    "village": "069033810903",
+    "word": "0690338109",
+    "union": "06903381",
+    "post_office": null,
+    "post_code": null,
+    "father_name": "\u0986\u09ac\u09a6\u09b0 \u0986\u09b2\u09c0",
+    "mother_name": "\u09ab\u09c1\u09b2 \u09ac\u09bf \u09ac\u09c7\u0997\u09ae",
+    "spouse_name": null
+  }
+}
+]

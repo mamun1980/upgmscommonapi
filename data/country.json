@@ -1,0 +1,486 @@
+[
+{
+  "model": "country.division",
+  "pk": "06",
+  "fields": {
+    "name_bangla": "Sylhet",
+    "name": "Sylhet",
+    "description": "This is Sylhet"
+  }
+},
+{
+  "model": "country.district",
+  "pk": "0690",
+  "fields": {
+    "name_bangla": "",
+    "name": "Sunamganj",
+    "description": "This is Sunamganj",
+    "division": "06"
+  }
+},
+{
+  "model": "country.upazila",
+  "pk": "069033",
+  "fields": {
+    "name_bangla": "",
+    "name": "Dowara Bazer",
+    "description": "This is Dowara Bazer",
+    "district": "0690"
+  }
+},
+{
+  "model": "country.union",
+  "pk": "06903381",
+  "fields": {
+    "name_bangla": "",
+    "name": "Surma",
+    "description": "This is Surma",
+    "district": "0690",
+    "upazila": "069033"
+  }
+},
+{
+  "model": "country.word",
+  "pk": "0690338101",
+  "fields": {
+    "name_bangla": "",
+    "name": "Nurpur",
+    "description": "This is nurpur",
+    "union_word_no": "01",
+    "upazila": "069033",
+    "union": "06903381"
+  }
+},
+{
+  "model": "country.word",
+  "pk": "0690338102",
+  "fields": {
+    "name_bangla": "",
+    "name": "Vujna",
+    "description": "This is vujna",
+    "union_word_no": "02",
+    "upazila": "069033",
+    "union": "06903381"
+  }
+},
+{
+  "model": "country.word",
+  "pk": "0690338103",
+  "fields": {
+    "name_bangla": "",
+    "name": "Sarifpur",
+    "description": "This is Sarifpur",
+    "union_word_no": "03",
+    "upazila": "069033",
+    "union": "06903381"
+  }
+},
+{
+  "model": "country.word",
+  "pk": "0690338104",
+  "fields": {
+    "name_bangla": "",
+    "name": "Girishnagor",
+    "description": "This is Girishnagor",
+    "union_word_no": "04",
+    "upazila": "069033",
+    "union": "06903381"
+  }
+},
+{
+  "model": "country.word",
+  "pk": "0690338105",
+  "fields": {
+    "name_bangla": "",
+    "name": "Tengratila",
+    "description": "This is Tengratila",
+    "union_word_no": "05",
+    "upazila": "069033",
+    "union": "06903381"
+  }
+},
+{
+  "model": "country.word",
+  "pk": "0690338106",
+  "fields": {
+    "name_bangla": "",
+    "name": "Tilagaon",
+    "description": "This is Tilagaon",
+    "union_word_no": "06",
+    "upazila": "069033",
+    "union": "06903381"
+  }
+},
+{
+  "model": "country.word",
+  "pk": "0690338107",
+  "fields": {
+    "name_bangla": "",
+    "name": "Alipur",
+    "description": "This is Alipur",
+    "union_word_no": "07",
+    "upazila": "069033",
+    "union": "06903381"
+  }
+},
+{
+  "model": "country.word",
+  "pk": "0690338108",
+  "fields": {
+    "name_bangla": "",
+    "name": "Mohabbatpur",
+    "description": "This is Mhabbatpur",
+    "union_word_no": "08",
+    "upazila": "069033",
+    "union": "06903381"
+  }
+},
+{
+  "model": "country.word",
+  "pk": "0690338109",
+  "fields": {
+    "name_bangla": "",
+    "name": "Borkotnagor",
+    "description": "This is Borkotnagor",
+    "union_word_no": "09",
+    "upazila": "069033",
+    "union": "06903381"
+  }
+},
+{
+  "model": "country.village",
+  "pk": "069033810101",
+  "fields": {
+    "name": "Nondigram",
+    "name_bangla": "\u09a8\u09a8\u09cd\u09a6\u09bf\u0997\u09cd\u09b0\u09be\u09ae",
+    "description": "This is NondiGram",
+    "upazila": "069033",
+    "union": "06903381",
+    "word": "0690338101"
+  }
+},
+{
+  "model": "country.village",
+  "pk": "069033810102",
+  "fields": {
+    "name": "Sunapur",
+    "name_bangla": "\u09b8\u09cb\u09a8\u09be\u09aa\u09c1\u09b0",
+    "description": "This is Sunapur",
+    "upazila": "069033",
+    "union": "06903381",
+    "word": "0690338101"
+  }
+},
+{
+  "model": "country.village",
+  "pk": "069033810103",
+  "fields": {
+    "name": "Nurpur",
+    "name_bangla": "\u09a8\u09c1\u09b0\u09aa\u09c1\u09b0",
+    "description": "This is Nurpur",
+    "upazila": "069033",
+    "union": "06903381",
+    "word": "0690338101"
+  }
+},
+{
+  "model": "country.village",
+  "pk": "069033810201",
+  "fields": {
+    "name": "Kodomtoli",
+    "name_bangla": "\u0995\u09a6\u09ae\u09a4\u09b2\u09bf",
+    "description": "This is Kodomtoli",
+    "upazila": "069033",
+    "union": "06903381",
+    "word": "0690338102"
+  }
+},
+{
+  "model": "country.village",
+  "pk": "069033810202",
+  "fields": {
+    "name": "kalikapur",
+    "name_bangla": "\u0995\u09be\u09b2\u09bf\u0995\u09be\u09aa\u09c1\u09b0",
+    "description": "This is kalikapur",
+    "upazila": "069033",
+    "union": "06903381",
+    "word": "0690338102"
+  }
+},
+{
+  "model": "country.village",
+  "pk": "069033810203",
+  "fields": {
+    "name": "Vujna",
+    "name_bangla": "\u09ad\u09c1\u099c\u09a8\u09be",
+    "description": "This is Bujna",
+    "upazila": "069033",
+    "union": "06903381",
+    "word": "0690338102"
+  }
+},
+{
+  "model": "country.village",
+  "pk": "069033810204",
+  "fields": {
+    "name": "Omarpur",
+    "name_bangla": "\u0993\u09ae\u09b0\u09aa\u09c1\u09b0",
+    "description": "This is Umarpur",
+    "upazila": "069033",
+    "union": "06903381",
+    "word": "0690338102"
+  }
+},
+{
+  "model": "country.village",
+  "pk": "069033810301",
+  "fields": {
+    "name": "Sarifpur",
+    "name_bangla": "\u09b6\u09b0\u09bf\u09ab\u09aa\u09c1\u09b0",
+    "description": "This is Sarifpur",
+    "upazila": "069033",
+    "union": "06903381",
+    "word": "0690338103"
+  }
+},
+{
+  "model": "country.village",
+  "pk": "069033810401",
+  "fields": {
+    "name": "Shantipur",
+    "name_bangla": "\u09b6\u09be\u09a8\u09cd\u09a4\u09bf\u09aa\u09c1\u09b0",
+    "description": "This is Shantipur",
+    "upazila": "069033",
+    "union": "06903381",
+    "word": "0690338104"
+  }
+},
+{
+  "model": "country.village",
+  "pk": "069033810402",
+  "fields": {
+    "name": "Khoiyajuri",
+    "name_bangla": "\u0996\u09c8\u09df\u09be\u099c\u09c1\u09b0\u09bf",
+    "description": "This is Koyajuri",
+    "upazila": "069033",
+    "union": "06903381",
+    "word": "0690338104"
+  }
+},
+{
+  "model": "country.village",
+  "pk": "069033810403",
+  "fields": {
+    "name": "Girishnagor",
+    "name_bangla": "\u0997\u09bf\u09b0\u09bf\u09b6\u09a8\u0997\u09b0",
+    "description": "This is Girishnogor",
+    "upazila": "069033",
+    "union": "06903381",
+    "word": "0690338104"
+  }
+},
+{
+  "model": "country.village",
+  "pk": "069033810404",
+  "fields": {
+    "name": "Islampur",
+    "name_bangla": "\u0987\u09b8\u09b2\u09be\u09ae\u09aa\u09c1\u09b0",
+    "description": "This is Islampur",
+    "upazila": "069033",
+    "union": "06903381",
+    "word": "0690338104"
+  }
+},
+{
+  "model": "country.village",
+  "pk": "069033810501",
+  "fields": {
+    "name": "Ajobpur",
+    "name_bangla": "\u0986\u099c\u09ac\u09aa\u09c1\u09b0",
+    "description": "This is Ajobpur",
+    "upazila": "069033",
+    "union": "06903381",
+    "word": "0690338105"
+  }
+},
+{
+  "model": "country.village",
+  "pk": "069033810502",
+  "fields": {
+    "name": "Tengratila",
+    "name_bangla": "\u099f\u09c7\u0982\u09b0\u09be\u099f\u09bf\u09b2\u09be",
+    "description": "This is Tengratila",
+    "upazila": "069033",
+    "union": "06903381",
+    "word": "0690338105"
+  }
+},
+{
+  "model": "country.village",
+  "pk": "069033810601",
+  "fields": {
+    "name": "Tilagaon",
+    "name_bangla": "\u099f\u09bf\u09b2\u09be\u0997\u09be\u0993",
+    "description": "This is Tilagoaw",
+    "upazila": "069033",
+    "union": "06903381",
+    "word": "0690338106"
+  }
+},
+{
+  "model": "country.village",
+  "pk": "069033810701",
+  "fields": {
+    "name": "Alipur",
+    "name_bangla": "\u0986\u09b2\u09c0\u09aa\u09c1\u09b0",
+    "description": "This is Alipur",
+    "upazila": "069033",
+    "union": "06903381",
+    "word": "0690338107"
+  }
+},
+{
+  "model": "country.village",
+  "pk": "069033810702",
+  "fields": {
+    "name": "Boithakhai",
+    "name_bangla": "\u09ac\u09c8\u09a0\u09be\u0996\u09be\u0987",
+    "description": "This is Boydakhai",
+    "upazila": "069033",
+    "union": "06903381",
+    "word": "0690338107"
+  }
+},
+{
+  "model": "country.village",
+  "pk": "069033810703",
+  "fields": {
+    "name": "Hasonbahar",
+    "name_bangla": "\u09b9\u09be\u099b\u09a8\u09ac\u09be\u09b9\u09be\u09b0",
+    "description": "This is HasonBaher",
+    "upazila": "069033",
+    "union": "06903381",
+    "word": "0690338107"
+  }
+},
+{
+  "model": "country.village",
+  "pk": "069033810801",
+  "fields": {
+    "name": "Mamunpur",
+    "name_bangla": "\u09ae\u09be\u09ae\u09c1\u09a8\u09aa\u09c1\u09b0",
+    "description": "This is mamunpur",
+    "upazila": "069033",
+    "union": "06903381",
+    "word": "0690338108"
+  }
+},
+{
+  "model": "country.village",
+  "pk": "069033810802",
+  "fields": {
+    "name": "Shimultola",
+    "name_bangla": "\u09b6\u09bf\u09ae\u09c1\u09b2\u09a4\u09b2\u09be",
+    "description": "This is Semultola",
+    "upazila": "069033",
+    "union": "06903381",
+    "word": "0690338108"
+  }
+},
+{
+  "model": "country.village",
+  "pk": "069033810803",
+  "fields": {
+    "name": "Mohabbatpur",
+    "name_bangla": "\u09ae\u09b9\u09ac\u09cd\u09ac\u09a4\u09aa\u09c1\u09b0",
+    "description": "This is Mohabbatpur",
+    "upazila": "069033",
+    "union": "06903381",
+    "word": "0690338108"
+  }
+},
+{
+  "model": "country.village",
+  "pk": "069033810804",
+  "fields": {
+    "name": "Marposhi",
+    "name_bangla": "\u09ae\u09be\u09b0\u09aa\u09b6\u09bf",
+    "description": "This is Marpisi",
+    "upazila": "069033",
+    "union": "06903381",
+    "word": "0690338108"
+  }
+},
+{
+  "model": "country.village",
+  "pk": "069033810805",
+  "fields": {
+    "name": "Rajnagor",
+    "name_bangla": "\u09b0\u09be\u099c\u09a8\u0997\u09b0",
+    "description": "This is rajnagor",
+    "upazila": "069033",
+    "union": "06903381",
+    "word": "0690338108"
+  }
+},
+{
+  "model": "country.village",
+  "pk": "069033810806",
+  "fields": {
+    "name": "Kaowaghor",
+    "name_bangla": "\u0995\u09be\u0993\u09df\u09be\u0998\u09b0",
+    "description": "Kaowaghor",
+    "upazila": "069033",
+    "union": "06903381",
+    "word": "0690338108"
+  }
+},
+{
+  "model": "country.village",
+  "pk": "069033810901",
+  "fields": {
+    "name": "Gujaura",
+    "name_bangla": "\u0997\u09c1\u099c\u09be\u0989\u09b0\u09be",
+    "description": "Gujaura",
+    "upazila": "069033",
+    "union": "06903381",
+    "word": "0690338109"
+  }
+},
+{
+  "model": "country.village",
+  "pk": "069033810902",
+  "fields": {
+    "name": "Borkotnagor",
+    "name_bangla": "\u09ac\u09b0\u0995\u09a4\u09a8\u0997\u09b0",
+    "description": "Borkotnagor",
+    "upazila": "069033",
+    "union": "06903381",
+    "word": "0690338109"
+  }
+},
+{
+  "model": "country.village",
+  "pk": "069033810903",
+  "fields": {
+    "name": "Khagura",
+    "name_bangla": "\u0996\u09be\u0997\u09c1\u09b0\u09be",
+    "description": "Khagura",
+    "upazila": "069033",
+    "union": "06903381",
+    "word": "0690338109"
+  }
+},
+{
+  "model": "country.village",
+  "pk": "069033810904",
+  "fields": {
+    "name": "Ziapur",
+    "name_bangla": "\u099c\u09bf\u09df\u09be\u09aa\u09c1\u09b0",
+    "description": "Ziapur",
+    "upazila": "069033",
+    "union": "06903381",
+    "word": "0690338109"
+  }
+}
+]

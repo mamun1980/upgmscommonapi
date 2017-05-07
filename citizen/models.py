@@ -1,5 +1,4 @@
 from django.db import models
-from citizen.models import *
 
 GENDER = (
     ('F', 'Female'),
@@ -10,15 +9,22 @@ GENDER = (
 # Create your models here.
 
 class Citizen(models.Model):
-    name_bangla = models.CharField(max_length=100, blank=False, null=False, db_index=True)
-    name_english = models.CharField(max_length=100, blank=False, null=False, db_index=True)
-    citizen_uid = models.CharField(max_length=100, blank=False, null=False, db_index=True)
-    nid = models.CharField(max_length=30, blank=False, null=False, db_index=True)
+    citizen_id = models.CharField(max_length=25, blank=False, null=False, db_index=True, primary_key=True)
+    name_bangla = models.CharField(max_length=50, blank=False, null=False, db_index=True)
+    name = models.CharField(max_length=50, blank=False, null=False, db_index=True)
+    nid = models.CharField(max_length=30, blank=False, null=False, db_index=True, unique=True)
     dob = models.DateField(auto_now=False, auto_now_add=False)
     gender = models.CharField(max_length=10, blank=True, null=True, choices=GENDER)
-    village = models.ForeignKey('Village', blank=True, null=True, on_delete=models.SET_NULL)
-    union = models.ForeignKey('Union', blank=True, null=True, on_delete=models.SET_NULL)
-    district = models.ForeignKey('District', blank=True, null=True, on_delete=models.SET_NULL)
+    # Address in NID card
+    village = models.ForeignKey('country.Village', blank=True, null=True, on_delete=models.SET_NULL)
+    word = models.ForeignKey('country.Word', blank=True, null=True, on_delete=models.SET_NULL)
+    union = models.ForeignKey('country.Union', blank=True, null=True, on_delete=models.SET_NULL)
+
+    post_office = models.CharField(max_length=50, blank=True, null=True, db_index=True)
+    post_code = models.CharField(max_length=10, blank=True, null=True)
+    father_name = models.CharField(max_length=50, blank=True, null=True, db_index=True)
+    mother_name = models.CharField(max_length=50, blank=True, null=True, db_index=True)
+    spouse_name = models.CharField(max_length=50, blank=True, null=True, db_index=True)
 
 
     @property
@@ -26,4 +32,4 @@ class Citizen(models.Model):
         return self.name_bangla
 
     def __str__(self):
-        return self.name_english
+        return self.name
